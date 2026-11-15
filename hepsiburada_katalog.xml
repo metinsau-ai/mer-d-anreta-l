@@ -1,335 +1,3076 @@
 <?xml version="1.0" ?>
-<Products>
-  <Product>
-    <Category>Telefon &amp; Aksesuarlar &gt; Cep Telefonu Aksesuarları</Category>
-    <MerchantSKU>EFE-B0BQRJ6Y5P</MerchantSKU>
-    <Barcode>8688372236252</Barcode>
-    <ProductName>Ürün özeti, temel ürün bilgilerini sunar</ProductName>
-    <Brand>Ürün</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>1000.0</BuyPrice>
-    <Price>2840.0</Price>
-    <EstimatedProfit>1374.0</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/I/61Z8dDORS1L._AC_SY300_SX300_QL70_ML2_.jpg</Image1>
-    <Description>Bu ürün hakkında
-Lamicall Araç Içi Cep Telefon Tutucu Güçlü Miknatis STCV03
-Lamicall
-Menşei : CN
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Telefon &amp; Aksesuarlar &gt; Cep Telefonu Aksesuarları</Category>
-    <MerchantSKU>EFE-B0BXSX7CMX</MerchantSKU>
-    <Barcode>8683922686976</Barcode>
-    <ProductName>Ürün özeti, temel ürün bilgilerini sunar</ProductName>
-    <Brand>Ürün</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>202.0</BuyPrice>
-    <Price>646.0</Price>
-    <EstimatedProfit>307.1</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/I/41xYoVp+SwL._AC_SY300_SX300_QL70_ML2_.jpg</Image1>
-    <Description>marka: SPELT
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Telefon &amp; Aksesuarlar &gt; Cep Telefonu Aksesuarları</Category>
-    <MerchantSKU>EFE-B0FLNJPSNZ</MerchantSKU>
-    <Barcode>8682643453829</Barcode>
-    <ProductName>Ürün özeti, temel ürün bilgilerini sunar</ProductName>
-    <Brand>Ürün</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>512.0</BuyPrice>
-    <Price>1473.6</Price>
-    <EstimatedProfit>700.56</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/G/41/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._CB542734514_.png</Image1>
-    <Description>Bu ürün hakkında
-📱【Paket İçeriği ve Uyumluluk】- Günlük kullanım ve yedekleme için yeterli olan 4 adet cep telefonu standları parmak tutucu alacaksınız, çoğu akıllı telefon modeli ile uyumlu olan bu aparatlar, pürüzsüz yüzeyli kılıflara güçlü şekilde yapışır, ancak cam veya engebeli yüzeyli koruyucu kılıflar için uygun olmayabilir.
-✨【Yüksek Elastikiyetli Tasarım】- Uzun ömürlü esnekliğe sahip örgülü parmak kayışı, parmağınızı nazikçe kavrayarak telefonunuzu güvenle tutmanızı sağlar, güçlü yapışkan tabanı sayesinde kılıf değiştirmeniz gerektiğinde kolayca sökülebilir, tekrar uygulanabilir ve cihazınızda herhangi bir yapışkan iz bırakmadan konfor sunar.
-🛠️【Çok Fonksiyonlu Kullanım】- Bu ürün sadece bir parmak tutucu değil, aynı zamanda dışarı doğru açılan metal parçası sayesinde pratik bir masaüstü standı görevi görür, cihazınızı kancalara asmanıza olanak tanıyan kayış yapısı, video izlerken veya görüntülü konuşma yaparken ellerinizi serbest bırakarak büyük kolaylık sağlar.
-🏃【Güvenli ve Kaymaz Yapı】- Koşu, yürüyüş veya alışveriş yaparken telefonunuzun elinizden düşmesini engelleyen bu kaymaz parmak tutucu, tek elle kullanımda maksimum güvenlik sağlar, kalabalık ortamlarda veya hareket halindeyken akıllı telefonunuzu sıkıca kavramanıza yardımcı olur, böylece ekran kırılma riskini minimize eder.
-👜【İnce ve Taşınabilir Form】- Ultra ince ve düz tasarımı sayesinde cebinizde veya çantanızda fazladan yer kaplamayan bu şık aparat, telefonunuzun estetiğini bozmadan her yere taşınabilir, hafif yapısı ile ağırlık yapmaz, gün boyu konforlu bir tutuş deneyimi sunarken modern ve estetik görünümüyle cihazınıza şıklık katar.
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Telefon &amp; Aksesuarlar &gt; Cep Telefonu Aksesuarları</Category>
-    <MerchantSKU>EFE-B08B88F49X</MerchantSKU>
-    <Barcode>8685401988328</Barcode>
-    <ProductName>Joyroom Teleskopik Araç içi Cep Telefonu Tutucu Siyah</ProductName>
-    <Brand>Joyroom</Brand>
-    <Color>Siyah</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>329.0</BuyPrice>
-    <Price>961.2</Price>
-    <EstimatedProfit>448.02</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/I/61Nw5hjUtKL._AC_SY300_SX300_QL70_ML2_.jpg</Image1>
-    <Description>Bu ürün hakkında
-Uzun kullanım ömrü
-Telefonun g tutuşu
-Anında montaj
-Eğim açısı ayarı
-Uzun kullanım ömrü ve güvenlik edilir
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Telefon &amp; Aksesuarlar &gt; Cep Telefonu Aksesuarları</Category>
-    <MerchantSKU>EFE-B09XFTL1NR</MerchantSKU>
-    <Barcode>8688263119886</Barcode>
-    <ProductName>Ürün özeti, temel ürün bilgilerini sunar</ProductName>
-    <Brand>Ürün</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>699.0</BuyPrice>
-    <Price>1997.2</Price>
-    <EstimatedProfit>958.62</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/I/71C+PtelliL._AC_SX300_SY300_QL70_ML2_.jpg</Image1>
-    <Description>Bu ürün hakkında
-Hafif: USB mini fan çıkarılabilir tasarıma sahiptir ve hafiftir ve cep boyutunda, özellikle her zaman her yerde seyahat ederken kolayca taşınır ve kullanılabilir.
-Ultra sessiz: Bu ürün mini ultra sessiz yüksek hızlı motor, güçlü rüzgar kullanır. Fanın kanatları çıkarılabilir, böylece depolama sırasında hasar görmez.
-Not: Fanı telefonunuzdaki kullanırken lütfen cihazın OTG özelliği olduğundan emin olun. Yalnızca mikro USB hem giriş hem de çıkış olduğunda, mini fan güç kaynağında kullanılabilir.
-Telefon fanı Huawei P9, Nokia N1 Tablet için, Oneplus 2, Letv Telefon için, Google Nexus 5X için, Google Nexus 6P için, Google Pixel C için, Samsung Galaxy S8 S8 PLUS Chromebook Pixel 2015 için, Asus B85M-G Plus ve C tipi arayüz cihazına sahip diğerleri için uygundur.
-Samsung Galaxy Note 8/Note 9 A12 /A10/A9 STAR/A9s/A8s/A8+/A6s/S21 S10/S10+ /S8 Plus/SM-N9500/C9pro/A50/A30, Moto G7 G6, LG Stylo 4/G5/G6 için uygundur ,Google Pixel C/Nexus 5X/6P, Asus B85M-G Plus, Oneplus 2/3, Huawei P30/P20/P10/P9/v9, Xiao mi Mi A2/8/7/6/Mix, HTC 10, Nokia N1 Tablet ve C tipi portlu diğer cep telefonları.
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Elektronik &gt; TV ve Ses Sistemleri &gt; Ev Sinema ve Ses</Category>
-    <MerchantSKU>EFE-B0CH9ZQ459</MerchantSKU>
-    <Barcode>8688623202548</Barcode>
-    <ProductName>VICHYIE 20'si 1 Arada Klavye ve Kulaklık Temizleme Seti - AirPods 1/2/3/Pro, PC, Dizüstü Bilgisayar, Cep Telefonu, Kamera İçin Aksesuar</ProductName>
-    <Brand>VICHYIE</Brand>
-    <Color>Siyah</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>388.0</BuyPrice>
-    <Price>1126.4</Price>
-    <EstimatedProfit>529.44</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/I/61X9zlVoxSL._AC_SY300_SX300_QL70_ML2_.jpg</Image1>
-    <Description>Bu ürün hakkında
-[Çok fonksiyonlu temizleme seti] 20'si 1 arada klavye temizleme seti, klavyeyi temizleyebilen bir fırça, kulaklık ve kamera temizliği için aksesuarlar, bir sprey şişesi (sıvı içermez) ve ekran temizliği için bir fiber bez, mekanik klavye kapaklarının değiştirilmesi için küçük aletler ve bir sim kart iğnesi içerir. Bu elektronik ürünler için bir temizleme setidir. Klavyeleri, kulaklıkları, ekranları, cep telefonlarını ve kameraları temizleyebilir.
-[Çok fonksiyonlu temizleme seti] 20'si 1 arada klavye temizleme seti, klavyeyi temizleyebilen bir fırça, kulaklık ve kamera temizliği için aksesuarlar, bir sprey şişesi (sıvı içermez) ve ekran temizliği için bir fiber bez, mekanik klavye kapaklarının değiştirilmesi için küçük aletler ve bir sim kart iğnesi içerir. Bu elektronik ürünler için bir temizleme setidir. Klavyeleri, kulaklıkları, ekranları, cep telefonlarını ve kameraları temizleyebilir.
-[Derinlemesine klavye temizliği] Yüksek yoğunluklu klavye temizleme fırçasının kılları orta derecede yumuşaklığa sahiptir, böylece klavye yüzeyindeki tozlar kolayca temizlenebilir. Klavye tuş çıkarıcı ve anahtar sökücü, klavye tuşları gibi mekanik klavye bileşenlerinin sökülmesini kolaylaştırır. Daha detaylı ve derinlemesine temizlik için siyah kıllı fırçayı kullanın.
-[Ekran temizliği] Boş bir sprey şişesini (3 ml) temizleme sıvısı ile doldurun ve ekrana biraz püskürtün (cep telefonu, tablet, bilgisayar monitörü). Ekranı kapağın arka tarafındaki fiber bezle silerseniz, yağ lekeleri ve parmak izleri kolayca çıkar.. Küçük hava kanallarına kolayca hava pompalayarak derin tozları temassız bir şekilde temizleyebilirsiniz. Yumuşak pedli bir lens temizleme kalemi, cep telefonu ve kamera lenslerindeki lekeleri giderebilir.
-[Kompakt ve taşınabilir] VICHYIE dizüstü bilgisayar klavye temizleme seti, kolay taşınabilirlik için iyi kapanan kapaklı entegre bir tasarıma sahiptir. Masaüstüne koyulduğunda küçük ve düzenli görünür, bu da onu günlük kullanım için daha rahat hale getirir. -
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Elektronik &gt; TV ve Ses Sistemleri &gt; Ev Sinema ve Ses</Category>
-    <MerchantSKU>EFE-B0BLYWCGPB</MerchantSKU>
-    <Barcode>8685886825255</Barcode>
-    <ProductName>Ürün özeti, temel ürün bilgilerini sunar</ProductName>
-    <Brand>Ürün</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>269.0</BuyPrice>
-    <Price>847.0</Price>
-    <EstimatedProfit>410.95</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/I/81y6xxnXtpL._AC_SY300_SX300_QL70_ML2_.jpg</Image1>
-    <Description>Hafif ve ergonomik tasarım Elektronik aksesuarlar için geniş iç hacim Fermuarlı iç bölme İnce ve şık tutma kolu Tüm Bileşenleri Avrupa Birliği normlarına uygun üretilmiştir. Ölçüler: 13*23*4 cm Hacim: 1 Litre Ağırlık: 0,11 kg
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Elektronik &gt; TV ve Ses Sistemleri &gt; Ev Sinema ve Ses</Category>
-    <MerchantSKU>EFE-B092ZNHV8K</MerchantSKU>
-    <Barcode>8681788191405</Barcode>
-    <ProductName>Ürün özeti, temel ürün bilgilerini sunar</ProductName>
-    <Brand>Ürün</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>1823.0</BuyPrice>
-    <Price>4597.5</Price>
-    <EstimatedProfit>2044.88</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/G/41/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._CB542734514_.png</Image1>
-    <Description>Bu ürün hakkında
-Bosch Easy Aletleri – tüm küçük projeler için kullanışlı yardımcı
-Kompakt, hafif ve ergonomiktir, rahat kullanım ve 12 mm çapa kadar duvarlarda ve 25 mm çapa kadar ahşapta zahmetsiz delme sağlar
-Bosch elektronik hız kontrolü, gaz şalteri üzerinden devir sayısının ayarlanmasını sağlar
-Hızlı ve kolay aksesuar değişimi için iki kovanlı hızlı sıkıştırmalı matkap aynası
-Teslimat kapsamı: EasyImpact 600, çanta
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Elektronik &gt; TV ve Ses Sistemleri &gt; Ev Sinema ve Ses</Category>
-    <MerchantSKU>EFE-B0GR547DYJ</MerchantSKU>
-    <Barcode>8687892005287</Barcode>
-    <ProductName>Torima CMR-46 Mavi Mini Dijital Kamera 2K Flip Ekranlı Video Kamera</ProductName>
-    <Brand>Torima</Brand>
-    <Color>Mavi</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>999.0</BuyPrice>
-    <Price>2837.2</Price>
-    <EstimatedProfit>1372.62</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/G/41/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._CB542734514_.png</Image1>
-    <Description>Bu ürün hakkında
-Kompakt ve Taşınabilir Tasarım: Ultra kompakt boyutları sayesinde cebinizde kolayca taşıyabileceğiniz mini dijital kamera, her an yanınızda olacak şekilde tasarlanmıştır
-Yüksek Çözünürlüklü Video Kaydı: 2K ve 1080P Full HD video çözünürlüğü ile anılarınızı net ve kaliteli bir şekilde kaydetmenizi sağlar
-Hareketli Flip Ekran Özelliği: Vlog çekimleri ve selfie videoları için pratik kullanım sunan hareketli ekran sayesinde kendinizi rahatlıkla görebilirsiniz
-Vlog ve İçerik Üreticileri: Video blog çekimleri, sosyal medya içerikleri ve günlük anılarınızı kaydetmek için kullanabileceğiniz dijital video kamera
-Yeşil Renk Seçeneği: Torima CMR-46 modeli yeşil renk seçeneği ile şık ve modern bir görünüm sunar
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Elektronik &gt; TV ve Ses Sistemleri &gt; Ev Sinema ve Ses</Category>
-    <MerchantSKU>EFE-B0GL952KR9</MerchantSKU>
-    <Barcode>8685341532537</Barcode>
-    <ProductName>Ürün özeti, temel ürün bilgilerini sunar</ProductName>
-    <Brand>Ürün</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>459.0</BuyPrice>
-    <Price>1325.2</Price>
-    <EstimatedProfit>627.42</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/I/71GHZ0msr8L._AC_SY300_SX300_QL70_ML2_.jpg</Image1>
-    <Description>Çok Amaçlı Kullanım: Elektronik devre tamir, lehimleme, onarım ve bakım işlemleri için uygundur
-Manyetik Özellik: Manyetik silikon yapısı sayesinde metal parçaları ve vidaları çalışma yüzeyinde sabit tutar
-Isıya Dayanıklı Malzeme: Yüksek sıcaklıklara dayanıklı silikon malzemeden üretilmiş olup lehimleme işlemlerinde güvenle kullanılabilir
-Model Adı: Elektronik Tamir Matı olarak tasarlanmıştır
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Elektronik &gt; TV ve Ses Sistemleri &gt; Ev Sinema ve Ses</Category>
-    <MerchantSKU>EFE-B08DN6MYTP</MerchantSKU>
-    <Barcode>8682019718156</Barcode>
-    <ProductName>Ürün özeti, temel ürün bilgilerini sunar</ProductName>
-    <Brand>Ürün</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>389.0</BuyPrice>
-    <Price>1129.2</Price>
-    <EstimatedProfit>530.82</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/I/61fvClogHZL._AC_SY300_SX300_QL70_ML2_.jpg</Image1>
-    <Description>Bu ürün hakkında
-Üstün malzeme: Hassas cımbız setimiz, yüksek sertlik, sağlam ve dayanıklı birinci sınıf yüksek elastik paslanmaz çelikten üretilmiştir. Cımbızın yüzeyi antistatik ve manyetik olmayan kaplamaya sahiptir, bu malzeme ayrıca antistatik, manyetik olmayan, aside dayanıklı, korozyona dayanıklıdır.
-GENİŞ UYGULAMALAR: Profesyonel endüstriyel elektronik cımbızlarımız el işleri, kaynak, kağıt oyma, nakış, stil, cep telefonu onarımı, saat onarımı, mücevher yapımı, laboratuvar işleri, elektronik onarımı ve diğer hassas işler için kullanılabilir.
-10 ADET ESD cımbız seti: Yükseltilmiş 10'u 1 arada ESD cımbız seti, farklı ihtiyaçlarınızı karşılamak için 9 adet farklı cımbız ve metal çift uçlu levye sahiptir. 5 sivri cımbız, 2 kavisli cımbız, 1 düz yuvarlak uçlu cımbız, 1 kare uçlu cımbız, 1 metal çift uçlu levye. Ve tüm parçalar sıkı kalite testinden geçer.
-KOLAY KULLANIM: Yükseltilmiş hassas cımbız seti ergonomi ile tasarlanmıştır. Cımbız sapı çok rahattır ve uzun süre kullanımdan sonra parmaklar yorulmaz. Ve her cımbız ucu plastik bir kapakla paketlenir. Tüm cımbızlar kanvas alet çantasında paketlenmiştir, kolay taşınabilir ve saklaması kolaydır.
-%100 memnuniyet garantisi: Ekibimiz her müşteriye iyi ürünler ve %100 tatmin edici hizmet sunmayı taahhüt eder. Ürünlerimizle ilgili herhangi bir sorun olursa, bizimle iletişime geçin, sorunlarınızı çözmekten mutluluk duyarız. Sepete Eklediğinizden emin olun.
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Bilgisayar &gt; Dizüstü Bilgisayar (Laptop) &amp; Tablet</Category>
-    <MerchantSKU>EFE-B0GCJC3RF8</MerchantSKU>
-    <Barcode>8688155453234</Barcode>
-    <ProductName>Lenovo Idea Tab 8GB 128GB 11" 2.5K Sim Kartlı Tablet+Kalem+Kılıf ZAFM0109TR</ProductName>
-    <Brand>Lenovo</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>12926.0</BuyPrice>
-    <Price>25892.0</Price>
-    <EstimatedProfit>9042.2</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/G/41/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._CB542734514_.png</Image1>
-    <Description>Bu ürün hakkında
-MediaTek işlemcisi gelişmiş hız ve verimlilik sunuyor.
-Dört adet Dolby Atmos özellikli hoparlörü, canlı çözünürlüğü ve zahmetsiz izleme için 90Hz yenileme hızıyla 11 inçlik 2.5K Idea Tab tablet ile büyüleyici bir deneyime hazır olun. İster dersleri takip edin ister en sevdiğiniz programları izleyin, her sahne daha keskin, her ses daha net ve her an daha sürükleyici olacak.
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Bilgisayar &gt; Dizüstü Bilgisayar (Laptop) &amp; Tablet</Category>
-    <MerchantSKU>EFE-B0GHPHWNXD</MerchantSKU>
-    <Barcode>8689135925390</Barcode>
-    <ProductName>Blackview TAB20WIFI Tablet 10.1 inç /12 GB4GB ve 8GB/64 GB/8 MP/Android14 ve Kılıf Dahil Siyah</ProductName>
-    <Brand>Blackview</Brand>
-    <Color>Siyah</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>4399.0</BuyPrice>
-    <Price>11037.5</Price>
-    <EstimatedProfit>4942.88</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/G/41/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._CB542734514_.png</Image1>
-    <Description>Bu ürün hakkında
-Taşınabilir ve hafif yapısıyla farklı ortamlarda kullanılabilir
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Bilgisayar &gt; Dizüstü Bilgisayar (Laptop) &amp; Tablet</Category>
-    <MerchantSKU>EFE-B0HKT19KWK</MerchantSKU>
-    <Barcode>8680567492924</Barcode>
-    <ProductName>Lenovo Idea Tab Pro Gen 2 8GB 256GB 13" 3.5K JBL Hoparlörlü Tablet+Klavye Paketi+Kalem ZAHD0618TR</ProductName>
-    <Brand>Lenovo</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>32998.0</BuyPrice>
-    <Price>66036.0</Price>
-    <EstimatedProfit>23092.6</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/G/41/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._CB542734514_.png</Image1>
-    <Description>Bu ürün hakkında
-Snapdragon 8 4. Nesil Mobil Platform gelişmiş NPU ile donatılmıştır
-Lenovo 2-in-1 Keyboard Pack for Idea Tab Pro Gen 2 ve Lenovo Tab Pen Plus ile uyumludur
-13 inç ekran, 3.5K (3504 x 2190) çözünürlük, LTPS teknolojisi, 144Hz yenileme hızı ve 800 nit parlaklık sunar
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Bilgisayar &gt; Dizüstü Bilgisayar (Laptop) &amp; Tablet</Category>
-    <MerchantSKU>EFE-B0GC6BNQFN</MerchantSKU>
-    <Barcode>8682803573558</Barcode>
-    <ProductName>HUAWEI MatePad 11.5 S 2026 Yeni Tablet, 2.8K 144 Hz Ultra Net PaperMatte Ekran, 12 GB RAM + 256 GB Depolama, 8800 mAh Batarya, 40 W SuperCharge, Wi-Fi 6+, HUAWEI Notes, Ayrılabilir Klavye, Yeşil</ProductName>
-    <Brand>HUAWEI</Brand>
-    <Color>Standart</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>24999.0</BuyPrice>
-    <Price>50038.0</Price>
-    <EstimatedProfit>17493.3</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/G/41/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._CB542734514_.png</Image1>
-    <Description>Bu ürün hakkında
-PaperMatte Ekran: HUAWEI MatePad 11.5 S 2026, 2.8K 144 Hz FullView Ultra Net PaperMatte LCD Ekran ile gelir. Yüksek hassasiyetli nano ölçekli dağlama teknolojisi sayesinde ışık parazitinin %99’unu⁸, ekran yansımalarının ise %50’sini⁶ azaltır. Bu yapı, parlak ortamlarda bile yüksek görünürlük sağlar. Gerçeğe yakın P3 renk gamı ile güçlendirilen ekran; sürükleyici izleme deneyimi, verimli öğrenme ve akıcı oyun performansı için idealdir
-HUAWEI Notes ve Ayrılabilir Klavye: Yapay zeka destekli denklem tanıma² özelliği, denklemleri algılayarak çözmenize yardımcı olur. Kaynak Merkezi ise her projeyi kişiselleştirebilmeniz için zengin bir kapak, çıkartma ve kâğıt şablonu kütüphanesi sunar. Ayrılabilir klavye ile iş akışınızı tamamlayın ve tabletinizde kısa sürede gerçek bilgisayar düzeyinde verimliliğin kilidini açın
-GoPaint Uygulaması: Dahili Kaynak Merkezi, premium fırçalar, kâğıtlar ve renklendirme araçlarına ücretsiz erişim sunar. M-Pencil Pro’yu sıkarak radyal menüyü açabilir, araçlarınızı düzenleyebilir ve çalışma alanınızı ihtiyaçlarınıza göre özelleştirebilirsiniz
-HUAWEI Notes: Yapay zeka destekli denklem tanıma² özelliği, matematik problemlerini anında çözer. Kaynak Merkezi ise her projeyi kişiselleştirmenizi sağlayan zengin bir kapak, çıkartma ve kağıt şablonu arşivi sunar
-GoPaint Uygulaması: Dahili Kaynak Merkezi, premium fırçalar, kâğıtlar ve renklendirme araçlarına ücretsiz erişim sunar. HUAWEI M-Pencil Pro¹¹’yu sıkarak radyal menüyü açabilir, araçlarınızı düzenleyebilir ve çalışma alanınızı size göre özelleştirebilirsiniz.*Kalem ayrıca satın alınması gerekebilir.
-Taşınabilir ve Güçlü: Yalnızca 515 g ağırlığı ve 6,1 mm inceliğiyle, hafif ama dayanıklı tasarımı her yere kolayca uyum sağlar. 8800 mAh bataryasıyla sizi daha uzun süre destekler; 40W HUAWEI SuperCharge ile dakikalar içinde şarj olur. Her an hazırsınız
-Eğlence için Yüksek Performans: Bağımsız anten ve geliştirilmiş Wi-Fi sayesinde kesintisiz bağlantının ve sürekli yüksek hızların keyfini çıkarın. Çoklu sürücülü hoparlör sistemiyle derin baslar sunan güçlü sesin içine dalın; bulunduğunuz ortama uyum sağlayan akıllı ses ayarıyla her an ideal dinleme deneyimini yaşayın
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-  <Product>
-    <Category>Bilgisayar &gt; Dizüstü Bilgisayar (Laptop) &amp; Tablet</Category>
-    <MerchantSKU>EFE-B0H6J38V37</MerchantSKU>
-    <Barcode>8680000066934</Barcode>
-    <ProductName>HUAWEI MatePad Pro Max 13.2 İnç Tablet (HUAWEI Glide Klavye ile), Mavi</ProductName>
-    <Brand>HUAWEI</Brand>
-    <Color>Mavi</Color>
-    <WarrantyPeriod>24 Ay</WarrantyPeriod>
-    <BuyPrice>67999.0</BuyPrice>
-    <Price>136038.0</Price>
-    <EstimatedProfit>47593.3</EstimatedProfit>
-    <Stock>10</Stock>
-    <VatRate>20</VatRate>
-    <Image1>https://m.media-amazon.com/images/G/41/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._CB542734514_.png</Image1>
-    <Description>Bu ürün hakkında
-Ultra İnce Amiral Gemisi Tasarımı: 4,7 mm incelik ve 509 g ağırlığa sahip HUAWEI MatePad Pro Max, dizüstü bilgisayarlardan çok daha ince ve yüksek taşınabilirlik sunar
-13.2 inç Esnek OLED PaperMatte Ekran: 1600 nit parlaklık ve 144 Hz yenileme hızı ile daha düşük yansıma, daha yüksek odaklanma ve gelişmiş göz konforu
-Bilgisayar performansı, tablet özgürlüğü: HUAWEI Glide Klavye ile üretkenliğinizi artırın. Entegre kalem saklama alanıyla her an hazır olun. Mobil çalışmanın en pratik hali
-Bilgisayar Düzeyinde Üretkenlik：Yalnızca 948 g toplam ağırlığa sahip tablet ve HUAWEI Glide Klavye ikilisi, üretkenliğinizi her yere taşıyan güçlü bir yardımcıya dönüşür, Hassas menteşe yapısı, cihazın hızlıca dizüstü bilgisayar benzeri kullanım düzenine geçmesini sağlar, Entegre kalem saklama alanı sayesinde kaleminiz her zaman yanınızda, Mobil ofis hiç bu kadar kolay olmamıştı
-HUAWEI Notes ile Verimli Çalışmalar: Çalışma akışınızı dönüştürün, Entegre yapay zeka, el yazınızı iyileştirir ve matematik işlemlerini anında çözümler
-Büyük Pil: 9760 mAh pil ile 13,6 saate kadar yerel video oynatma deneyiminin keyfini çıkarın, Telefonunuzu anında şarj etmek için 40 W ters şarj desteğinden yararlanın
-› Daha fazla ürün bilgisi</Description>
-  </Product>
-</Products>
+<products>
+  <product>
+    <id>935068</id>
+    <productCode>TDE-DC935068</productCode>
+    <barcode>8686823768338</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Yapı Market ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Yapı Market ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Sünger ]]&gt;</brand>
+    <name>&lt;![CDATA[ Sünger Kapı Altı Bandı Isı Yalıtım Süngeri 90 Cm 1 Paket ]]&gt;</name>
+    <description>&lt;![CDATA[ marka: OKÇU KARDEŞLER YAPI MARKET
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/41SfiJngLWL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>125.00</listPrice>
+    <price>455.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>0</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0BC8KQZR5</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Sünger Kapı Altı Bandı Isı Yalıtım Süngeri 90 Cm 1 Paket&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935069</id>
+    <productCode>TDE-DC935069</productCode>
+    <barcode>8688752019475</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ 9 ]]&gt;</brand>
+    <name>&lt;![CDATA[ 9 Parça Mini Alyan Anahtar Takımı | Allen Seti | Allen Anahtar Seti El Aletleri ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Montaj, tamirat ve hobi projelerinizde en büyük yardımcınız olacak 9 parça mini alyan anahtar seti, dar ve erişilmesi zor alanlardaki vidalama işleriniz için özel olarak tasarlanmıştır.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/91VSObHwZ2L._AC_SX300_SY300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>169.00</listPrice>
+    <price>587.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>0</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HH4YN6MQ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;9 Parça Mini Alyan Anahtar Takımı | Allen Seti | Allen Anahtar Seti El Aletleri&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935070</id>
+    <productCode>TDE-DC935070</productCode>
+    <barcode>8680533659474</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Bosch ]]&gt;</brand>
+    <name>&lt;![CDATA[ Bosch 1600A02W7M Premium Katlanabilir Maket Bıçağı ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Maket Bıçağı
+Tek elle açılan bıçak
+Serbest bırakma çekme düğmesiyle kullanım ve hızlı bıçak değişimi
+Paslanmaz çelik metal kafalı ve fiberglas takviyeli naylon saplı bıçak
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51aYQxqAc0L._AC_SX300_SY300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>658.00</listPrice>
+    <price>1922.40</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0CP7QP6DR</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Bosch 1600A02W7M Premium Katlanabilir Maket Bıçağı&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935071</id>
+    <productCode>TDE-DC935071</productCode>
+    <barcode>8687432368117</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Bosch ]]&gt;</brand>
+    <name>&lt;![CDATA[ Bosch Professional Accessories Keski, Gri, 1 Adet ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Beton ve Tuğlada Çeşitli Yıkım Uygulamalarında Standart Keski
+SDS max Düz Keski, beton ve tuğlada çeşitli yıkım uygulamaları için standart keski sunar
+Düz kesici ağız kısmı hafif uygulamalarda iyi malzeme kazıma olanağı sunar
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/31QRNtTtrcL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>369.00</listPrice>
+    <price>1113.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B07CZH2ZB6</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Bosch Professional Accessories Keski, Gri, 1 Adet&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935072</id>
+    <productCode>TDE-DC935072</productCode>
+    <barcode>8682834721010</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Busstier ]]&gt;</brand>
+    <name>&lt;![CDATA[ Busstier Mini Kıl Testere, Yedekli, Profesyonel El Testeresi, Ahşap, Demir, Çivi, Alüminyum, Cam, Fayans ve Benzeri Malzemeler İçin Kesme Testeresi ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+GENİŞ KULLANIM ALANI: Ahşap, metal, cam, fayans ve daha birçok malzemede etkili kesim.
+YEDEK BIÇAK DAHİL: Uzun süreli kullanım için ekstra testere bıçağı ile gelir.
+PROFESYONEL PERFORMANS: Hassas ve temiz kesimler için tasarlanmış bıçak yapısı.
+DAYANIKLI GÖVDE: Uzun ömürlü kullanım için yüksek kalite malzeme.
+ERGONOMİK SAP: El yorgunluğunu azaltan konforlu tutma şekli.
+HAFİF VE TAŞINABİLİR: Hobi ve profesyonel işlerde kolay kullanım.
+KOMPAKT TASARIM: Dar alanlarda bile rahat çalışma imkanı.
+Daha fazla göster ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/512DrZMeJcL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>122.00</listPrice>
+    <price>446.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0FLWYG7JS</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Busstier Mini Kıl Testere, Yedekli, Profesyonel El Testeresi, Ahşap, Demir, Çivi, Alüminyum, Cam, Fayans ve Benzeri Malzemeler İçin Kesme Testeresi&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935073</id>
+    <productCode>TDE-DC935073</productCode>
+    <barcode>8688822093695</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Keser ]]&gt;</brand>
+    <name>&lt;![CDATA[ Keser 400 gr 40 cm Balta Ahşap Saplı Hırdavat Onarım Odun Kesme Manuel El Aleti Ağaç ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Keser 400 gr 40 cm Balta Ahşap Saplı Hırdavat Onarım Odun Kesme Manuel El Aleti Ağaç
+Keser 400 gr 40 cm, hırdavat işleri ve onarım uygulamalarında kullanılmak üzere tasarlanmış bir keser türü el aletidir. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/615aCpUbh5L._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>775.00</listPrice>
+    <price>1900.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HPL2PQV4</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Keser 400 gr 40 cm Balta Ahşap Saplı Hırdavat Onarım Odun Kesme Manuel El Aleti Ağaç&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935074</id>
+    <productCode>TDE-DC935074</productCode>
+    <barcode>8687410835785</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Mini ]]&gt;</brand>
+    <name>&lt;![CDATA[ Mini Yaylı Kerpeten 125 mm Alışımlı Çelik Tel Kesici Hassas El Aleti Hırdavat Atölye ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Mini Yaylı Kerpeten 125 mm Alışımlı Çelik Tel Kesici Hassas El Aleti Hırdavat Atölye
+Mini yaylı kerpeten, dar alanlarda vida sökme, tel büküme, küçük parça kavrama ve hassas el işleri için tasarlanmış bir kerpeten türüdür.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61uHWZ114DL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>881.00</listPrice>
+    <price>2154.40</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HPKBHHNZ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Mini Yaylı Kerpeten 125 mm Alışımlı Çelik Tel Kesici Hassas El Aleti Hırdavat Atölye&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935075</id>
+    <productCode>TDE-DC935075</productCode>
+    <barcode>8689835196045</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Hırdavat Genel ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Orret ]]&gt;</brand>
+    <name>&lt;![CDATA[ Orret Home Ahşap Saplı Keser Çekiç Profesyonel Keser Çivi Çakma ve Sökme Aleti Bahçe İşleri İnşaat Marangoz Keseri Dayanıklı Çelik Başlıklı El Aleti (ASORTİ RENK) ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+🔨 Çivi çakma ve sökme için çok amaçlı kullanım
+🪵 Ergonomik ahşap sap ile rahat kavrama
+🦾 Dayanıklı çelik başlık ile güçlü darbe etkisi
+🌿 Bahçe işleri ve dış mekan kullanımı için ideal
+🛠️ İnşaat ve tamirat işlerinde pratik çözüm
+💪 Uzun ömürlü ve sağlam yapı
+✋ Dengeli tasarım ile kontrollü kullanım
+Daha fazla göster ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51NsE4qVhSL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>199.00</listPrice>
+    <price>677.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GYRVPGHD</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Orret Home Ahşap Saplı Keser Çekiç Profesyonel Keser Çivi Çakma ve Sökme Aleti Bahçe İşleri İnşaat Marangoz Keseri Dayanıklı Çelik Başlıklı El Aleti (ASORTİ RENK)&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935076</id>
+    <productCode>TDE-DC935076</productCode>
+    <barcode>8687480634486</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Teleskopik Merdiven ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Teleskopik Merdiven ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ 190+190 ]]&gt;</brand>
+    <name>&lt;![CDATA[ 190+190 cm. 6+6 basamak A Tipi Teleskopik Alüminyum Merdiven - Uzayan Merdiven ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+EN131 STANDARDINA UYGUN, KAYDIRMAZ, EMNİYETLİ
+HER TÜRLÜ ARAÇ BAGAJINA SIĞACAK KADAR KÜÇÜK
+BASAMAK SAYISI: TOPLAM 12
+TAŞIMA KAPASİTESİ: 150 kg. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51ylL9JgtBL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>8200.00</listPrice>
+    <price>16480.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GW6QLX15</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;190+190 cm. 6+6 basamak A Tipi Teleskopik Alüminyum Merdiven - Uzayan Merdiven&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935077</id>
+    <productCode>TDE-DC935077</productCode>
+    <barcode>8685484295498</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Tırpan Misinası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Tırpan Misinası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ RTRMAX ]]&gt;</brand>
+    <name>&lt;![CDATA[ RTRMAX RTY516 1.6 mmx15M Tırpan Misinası Yeşil Yuvarlak, Sarı ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Güvenli
+Kaliteli
+Kullanışlı
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51oU6LFeQoL._AC_SY879_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>139.00</listPrice>
+    <price>497.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B07XZFB91T</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;RTRMAX RTY516 1.6 mmx15M Tırpan Misinası Yeşil Yuvarlak, Sarı&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935078</id>
+    <productCode>TDE-DC935078</productCode>
+    <barcode>8682048341998</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Tırpan Misinası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Tırpan Misinası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Veta ]]&gt;</brand>
+    <name>&lt;![CDATA[ Veta 131619 Tırpan Misina Pro 3.0Mm 56M Yeşil Yuvarlak ]]&gt;</name>
+    <description>&lt;![CDATA[ Veta 131619 Tırpan Misina Pro 3.0Mm 56M Yeşil Yuvarlak
+Veta
+Menşei : TR ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61DBkFByrCL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>322.00</listPrice>
+    <price>981.60</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0FS7DDN49</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Veta 131619 Tırpan Misina Pro 3.0Mm 56M Yeşil Yuvarlak&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935079</id>
+    <productCode>TDE-DC935079</productCode>
+    <barcode>8683503350333</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Tırpan Misinası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Tırpan Misinası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Bosch ]]&gt;</brand>
+    <name>&lt;![CDATA[ Bosch Professional Home &amp; Garden Yedek Misina 24m, 2.4mm ]]&gt;</name>
+    <description>&lt;![CDATA[ Özellikleri sayesinde kullanıcı deneyimini üst seviyeye çıkarmayı hedefler
+Büyük ve zorlu görevlerde yardımcıdır
+GRT 18V-33 ve GFR 18V-23 ile uyumludur
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71h47umqzLL._AC_SX300_SY300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>903.00</listPrice>
+    <price>2207.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0CC5PGG92</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Bosch Professional Home &amp; Garden Yedek Misina 24m, 2.4mm&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935080</id>
+    <productCode>TDE-DC935080</productCode>
+    <barcode>8686136111876</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Takım Çantası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Takım Çantası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ WORKPRO ]]&gt;</brand>
+    <name>&lt;![CDATA[ WORKPRO 19'' Metal Kilitli Plastik Takım Çantası, ABS Malzeme, 48.8x26.5x24.5 cm, 15 kg Taşıma Kapasiteli, 2 Şeffaf Bölmeli ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Tornavida, pense, cıvata, vida, kurbağacık anahtar, metre gibi birçok alet edevatları düzenli biçimde saklamanızı ve taşımanızı sağlayan sağlam 15Kg taşıma kapasiteli ABS plastikten üretilmiş 19’’ kilitli takım çantası
+Sağlam ABS plastik gövde ve metal menteşe pimi sayesinde 15kg’a kadar ağırlıkta aletleri taşımanıza imkânı sağlar.
+Kapak üzerine entegre 2 adet şeffaf bölmeler ile küçük parçalara hızlı erişim sağlanır.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51muvy9Z4hL._AC_SX522_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1030.00</listPrice>
+    <price>2655.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GPBZFBLK</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;WORKPRO 19'' Metal Kilitli Plastik Takım Çantası, ABS Malzeme, 48.8x26.5x24.5 cm, 15 kg Taşıma Kapasiteli, 2 Şeffaf Bölmeli&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935081</id>
+    <productCode>TDE-DC935081</productCode>
+    <barcode>8684977866801</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Takım Çantası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Takım Çantası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ CAT ]]&gt;</brand>
+    <name>&lt;![CDATA[ CAT DA980663 20'' Ağır Hizmet Geniş Ağızlı Bez Alet Takım Çantası ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+CAT DA980663 20'' Ağır Hizmet Geniş Ağızlı Bez Alet Takım Çantası
+CAT
+Menşei : TR
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51wFyPzzHpL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>2331.00</listPrice>
+    <price>4702.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0CDQ3LCN3</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;CAT DA980663 20'' Ağır Hizmet Geniş Ağızlı Bez Alet Takım Çantası&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935082</id>
+    <productCode>TDE-DC935082</productCode>
+    <barcode>8687592035577</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Zımpara Makinesi ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Zımpara Makinesi ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Bosch ]]&gt;</brand>
+    <name>&lt;![CDATA[ Bosch Home And Garden Çok Amaçlı Zımpara Psm 80 A, 3 Redwood Zımpara Kağıdı, Çanta (80 W, Titreşim Sayısı 20000 Dev/Dak, Zımparalama Yüzeyi 104 Cm²) ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Zor erişilen yerlerde ve küçük yüzeylerde de zımparalama ve polisaj
+Pıtrak tutturma sayesinde hızlı ve kolay testere bıçağı değişimi
+İkiye bölünmüş zımpara tabanı sayesinde zımpara kağıdının optimum kullanımı
+Bosch mikro filtre sistemi sayesinde temiz çalışma: Monte edilen toz emme elemanı tozu doğrudan teslimat kapsamındaki mikro filtre kutusuna emer
+Teslimat kapsamı: PSM 80 A, 3 zımpara kağıdı, plastik taşıma çantası (3165140410519)
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61dfuXN8JYL._AC_SY879_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>2329.00</listPrice>
+    <price>4698.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B000PXHIFM</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Bosch Home And Garden Çok Amaçlı Zımpara Psm 80 A, 3 Redwood Zımpara Kağıdı, Çanta (80 W, Titreşim Sayısı 20000 Dev/Dak, Zımparalama Yüzeyi 104 Cm²)&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935083</id>
+    <productCode>TDE-DC935083</productCode>
+    <barcode>8686088460275</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ El Feneri Kafa Lambası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ El Feneri Kafa Lambası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Şarjlı ]]&gt;</brand>
+    <name>&lt;![CDATA[ Şarjlı Mıktanıslı Kafa Lambasi Wt-621 ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+El Feneri ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51lP1ltOnyL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>399.00</listPrice>
+    <price>1197.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0FL2JQLGF</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Şarjlı Mıktanıslı Kafa Lambasi Wt-621&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935084</id>
+    <productCode>TDE-DC935084</productCode>
+    <barcode>8685418214410</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ El Feneri Kafa Lambası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ El Feneri Kafa Lambası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Panther ]]&gt;</brand>
+    <name>&lt;![CDATA[ Panther PT-5890 USB Şarjlı Kafa Feneri 5W Lazer LED COB Işık Powerbank ve Zoom Özellikli ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Panther PT-5890 USB Şarjlı Kafa Feneri 5W Lazer LED COB Işık Powerbank ve Zoom Özellikli
+Panther
+Menşei : TR
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61rdFXdQkhL._AC_SX679_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>982.00</listPrice>
+    <price>2829.60</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HN596TJM</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Panther PT-5890 USB Şarjlı Kafa Feneri 5W Lazer LED COB Işık Powerbank ve Zoom Özellikli&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935085</id>
+    <productCode>TDE-DC935085</productCode>
+    <barcode>8683053353761</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Ofis Kırtasiye Malzemeleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Ofis Kırtasiye Malzemeleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Maped ]]&gt;</brand>
+    <name>&lt;![CDATA[ Maped Ofis Ve Kirtasiye 242830 4'lü Start Maxi Cetvel Seti, 30 cm ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Menşe Ülke: Çin
+4'lü start 30cm maxi set
+1 adet 60° gönye/ 21 cm + 1 adet 45° gönye/ 21 cm
+1 adet 180° açı ölçer/ 12 cm
+1 adet 30 cm cetvel
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/81kK9EeNLML._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>246.00</listPrice>
+    <price>818.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B072JXB1XM</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Maped Ofis Ve Kirtasiye 242830 4'lü Start Maxi Cetvel Seti, 30 cm&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935086</id>
+    <productCode>TDE-DC935086</productCode>
+    <barcode>8682696215313</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Ofis Kırtasiye Malzemeleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Ofis Kırtasiye Malzemeleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ FixPoint ]]&gt;</brand>
+    <name>&lt;![CDATA[ FixPoint 4'lü Kırtasiye Seti, Ataç Seti, Model CNK-321 ]]&gt;</name>
+    <description>&lt;![CDATA[ marka: Fixpoint
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51thaL3BDYL._AC_SY679_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>133.00</listPrice>
+    <price>479.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0DT44X9LH</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;FixPoint 4'lü Kırtasiye Seti, Ataç Seti, Model CNK-321&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935087</id>
+    <productCode>TDE-DC935087</productCode>
+    <barcode>8680859456221</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Bahçe Mobilyası Kılıfı ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Bahçe Mobilyası Kılıfı ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Bundera ]]&gt;</brand>
+    <name>&lt;![CDATA[ Bundera Guise Gri Bahçe Mobilya Koruma Örtüsü Su Geçirmez Masa Sandalye Yağmur Toz Kir Önleyici Branda ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Kirlendiğinde hortum ile (tazyiksiz) su tutarak veyaBu sayede güneş ışığını kırar ve mobilyalarınızın kuAhşap mobilyaların çatlama ve çürümesini geciktirir. Metal kısımların yağmurdan korur paslanmasını önler 4 kişilik oturma grubu ve orta sehpa için tasarlanmıştır. (Lütfen satın almadan önce mobilyanızın boyutlarına uygun seçim yaptığınızdan emin olunuz) Örtünün Ölçüleri: Çap :160 cm Yükseklik : 80 cm Paket İçeriği: 1 Adet Bundera Guise Bahçe Mobilya Koruma Örtüsü 1 Adet 10 metre Bağlama İpi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51xM4yDjhdL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>999.00</listPrice>
+    <price>2877.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0BL76W8FJ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Bundera Guise Gri Bahçe Mobilya Koruma Örtüsü Su Geçirmez Masa Sandalye Yağmur Toz Kir Önleyici Branda&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935088</id>
+    <productCode>TDE-DC935088</productCode>
+    <barcode>8687145821213</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Barbekü Mangal Malzemeleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Barbekü Mangal Malzemeleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Weber ]]&gt;</brand>
+    <name>&lt;![CDATA[ Weber Çift şiş seti (30 cm uzunluğunda), 8 adet, karides, sebze veya et sabitlemek için ideal, ızgara yapılan yiyecekleri kolayca çevirin, bulaşık makinesinde yıkanabilir - gümüş (6320) ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+✅ ızgara - dayanıklı ve şık.
+📏 Yaklaşık 30 cm ölçü.
+🎨 Gümüş görünüm, her stile uyum.
+🧼 Kolay temizlenir, uzun ömürlü kullanım. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71KNZvQm8BL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1485.00</listPrice>
+    <price>3792.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B08M376ZCR</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Weber Çift şiş seti (30 cm uzunluğunda), 8 adet, karides, sebze veya et sabitlemek için ideal, ızgara yapılan yiyecekleri kolayca çevirin, bulaşık makinesinde yıkanabilir - gümüş (6320)&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935089</id>
+    <productCode>TDE-DC935089</productCode>
+    <barcode>8688468899927</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Barbekü Mangal Malzemeleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Barbekü Mangal Malzemeleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Guruss ]]&gt;</brand>
+    <name>&lt;![CDATA[ Guruss Cg075 Kömürlü Barbekü Mangal ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+marka: ReHome
+montaj gereklidir: Doğru
+yakıt tipi: Kömür
+bitiş tipi: Yapışmaz
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51QeiCPRM9L._AC_SX522_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>15288.00</listPrice>
+    <price>30656.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0BHDHW7ZF</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Guruss Cg075 Kömürlü Barbekü Mangal&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935090</id>
+    <productCode>TDE-DC935090</productCode>
+    <barcode>8687867471574</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Barbekü Mangal Malzemeleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Barbekü Mangal Malzemeleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Weber ]]&gt;</brand>
+    <name>&lt;![CDATA[ Weber 6276 BAMBU BARBEKÜ FIRÇASI 46CM ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+✅ Bambu barbekü - dayanıklı ve şık.
+📏 Yaklaşık 46 cm ölçü.
+🎨 Her stile uyum sağlayan sade görünüm.
+🧼 Kolay temizlenir, uzun ömürlü kullanım.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61Y0GAV8VYL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1503.00</listPrice>
+    <price>3837.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B08M3HVKNF</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Weber 6276 BAMBU BARBEKÜ FIRÇASI 46CM&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935091</id>
+    <productCode>TDE-DC935091</productCode>
+    <barcode>8684176593218</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Barbekü Mangal Malzemeleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Barbekü Mangal Malzemeleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Napoleon ]]&gt;</brand>
+    <name>&lt;![CDATA[ Napoleon 3 Parça Paslanmaz Çelik Barbekü Araç Seti 70024 Sağlam Paslanmaz Çelik Spatula, Maşalar, Pirinç Barbekü Temizleme Fırçası, Isıya Dayanıklı Kollar, Şişe Açacağı, Alet Askısı, Bulaşık ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Barbekü için gerekli olan her şey: Bu set, her arka bahçe şefinin mangal yapmak için ihtiyaç duyduğu aletler içerir - sağlam bir spatula, sert bir maşa çifti ve bir barbekü temizleme fırçası
+DAYANIKLI: Dayanıklı, paslanmaya dayanıklı, ısıya dayanıklı kulplu paslanmaz çelik yapı ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71+cqmSJuuL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>3399.00</listPrice>
+    <price>8577.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B00U7LRNWU</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Napoleon 3 Parça Paslanmaz Çelik Barbekü Araç Seti 70024 Sağlam Paslanmaz Çelik Spatula, Maşalar, Pirinç Barbekü Temizleme Fırçası, Isıya Dayanıklı Kollar, Şişe Açacağı, Alet Askısı, Bulaşık&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935092</id>
+    <productCode>TDE-DC935092</productCode>
+    <barcode>8682947598219</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ El Aletleri Takım Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ El Aletleri Takım Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Oyuncak ]]&gt;</brand>
+    <name>&lt;![CDATA[ Oyuncak 30 Parça Çantalı Oyuncak Tamir Seti Çekiç Tornavida Pense Anahtar Testere Vidalama Çivi Çakma Vidalama Oyunu Çocuk Alet Seti ]]&gt;</name>
+    <description>&lt;![CDATA[ 🔨 30 Parçalık Zengin Tamir Seti: Çocukların farklı tamir, montaj ve ustalık oyunları oluşturabilmesi için çeşitli oyuncak el aletleri ve bağlantı parçaları içerir.
+🧰 Taşıma Çantalı Tasarım: Şeffaf ve saplı takım çantası sayesinde tüm parçalar oyun sonrasında düzenli şekilde saklanabilir ve kolayca taşınabilir.
+🧰 Taşıma Çantalı Tasarım: Şeffaf ve saplı takım çantası sayesinde tüm parçalar oyun sonrasında düzenli şekilde saklanabilir ve kolayca taşınabilir.
+🔨 Çekiç ve Çivi Oyunu: Oyuncak çekiç ve çivi parçalarıyla çakma hareketleri canlandırılarak eğlenceli tamir senaryoları oluşturulabilir.
+🔧 Anahtarla Sıkma ve Gevşetme: Oyuncak anahtar ve somun parçaları sayesinde sıkma, gevşetme ve montaj oyunları gerçekleştirilebilir.
+🗜️ Farklı Oyuncak El Aletleri: Set içerisinde çekiç, pense, anahtar, tornavida ve testere gibi tamir temasını tamamlayan çeşitli oyuncak aletler bulunur.
+🧩 Sök-Tak Oyununa Uygun: Vida, somun, çivi ve bağlantı parçaları farklı şekillerde birleştirilerek çocukların kendi oyun senaryolarını oluşturmasına imkân sağlar.
+Daha fazla göster ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71sCFSNp20L._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>359.00</listPrice>
+    <price>1085.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HLG16LGF</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Oyuncak 30 Parça Çantalı Oyuncak Tamir Seti Çekiç Tornavida Pense Anahtar Testere Vidalama Çivi Çakma Vidalama Oyunu Çocuk Alet Seti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935093</id>
+    <productCode>TDE-DC935093</productCode>
+    <barcode>8688376624666</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ El Aletleri Takım Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ El Aletleri Takım Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ GRAS09 ]]&gt;</brand>
+    <name>&lt;![CDATA[ GRAS09 9 Parça Çantalı El Aleti Seti ]]&gt;</name>
+    <description>&lt;![CDATA[ Grangos GRAS09 9 Parça Çantalı El Aleti Seti
+GRANGOS
+Menşei : TR
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61wLtmnRYGL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1350.00</listPrice>
+    <price>3455.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0H268915X</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;GRAS09 9 Parça Çantalı El Aleti Seti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935094</id>
+    <productCode>TDE-DC935094</productCode>
+    <barcode>8687508339096</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ El Aletleri Takım Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ El Aletleri Takım Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Jouis ]]&gt;</brand>
+    <name>&lt;![CDATA[ Jouis Şarjlı El Feneri ve Tornavida Alet Çantası Seti-Güçlü LED Işıldak Projektör,Ev Araba Tamir Takımı ve Acil Durum Kamp Malzemeleri Tornavida Tamir Seti 19’u 1 Arada LED Fener ve El Aletleri Seti ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+✅[HEPSİ BİR ARADA ÇOK AMAÇLI SET]: Sadece güçlü bir fener değil, aynı zamanda gizli bir alet çantası! İçinde tornavida seti, heks anahtarlar, maket bıçağı ve şerit metre gibi acil durumlar için gerekli 19 parça el aleti bulunur.
+✅[GÜÇLÜ AYDINLATMA MODLARI]: Hem ana projektör hem de yan COB lambası için Yüksek, Düşük ve Flaş (Strobe) modlarına sahiptir. 5 farklı aydınlatma seçeneğiyle her duruma uygun ışığı sağlar.
+✅ [ŞARJ EDİLEBİLİR VE GÜÇ BANKASI]: Dahili yüksek kapasiteli pili USB Type-C portu üzerinden hızlıca şarj olur. Ayrıca acil durumlarda telefonunuzu şarj edebileceğiniz bir güç bankası (power bank) işlevi görür.
+✅ [AKILLI PİL GÖSTERGESİ]: Fenerin üzerindeki net 4 kademeli (%%25, %%50, %%75, %%100) mavi LED gösterge sayesinde kalan pil süresini her zaman görebilir ve şarjsız kalmazsınız.
+✅ [DAYANIKLI VE TAŞINABİLİR TASARIM]: Yüksek kaliteli, darbelere dayanıklı malzemeden üretilmiştir. Entegre taşıma sapı ve ergonomik yapısıyla evde, araçta, kampta veya teknede taşımak için mükemmeldir.
+✅ [BAĞIMSIZ KONTROL DÜĞMELERİ]: Ana projektör ve yan çalışma ışığı için ayrı anahtarlar bulunur, bu da istenen ışık modunu hızlı ve kolay bir şekilde seçmenizi sağlar.
+✅ [GENİŞ KULLANIM ALANLARI]: Ev onarımları, elektrik işleri, bilgisayar tamiri, araç arızaları veya outdoor aktiviteler (kamp, avcılık) için ideal bir yardımcıdır. Tüm aletler fenerin içinde düzenli bir şekilde saklanır.
+✅ [EKSİKSİZ PAKET İÇERİĞİ]: Paket içerisinde çok fonksiyonlu fener, 19 parça entegre el aleti, bir adet USB-C şarj kablosu ve kullanım kılavuzu bulunur. Hem pratik hem de harika bir hediye seçeneğidir.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51OLVWMdrDL._AC_SX679_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>300.00</listPrice>
+    <price>880.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GX7PKTGC</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Jouis Şarjlı El Feneri ve Tornavida Alet Çantası Seti-Güçlü LED Işıldak Projektör,Ev Araba Tamir Takımı ve Acil Durum Kamp Malzemeleri Tornavida Tamir Seti 19’u 1 Arada LED Fener ve El Aletleri Seti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935095</id>
+    <productCode>TDE-DC935095</productCode>
+    <barcode>8682829120521</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Akıllı Ev Sistemleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Akıllı Ev Sistemleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ TP-Link ]]&gt;</brand>
+    <name>&lt;![CDATA[ TP-Link Tapo S200D, Uzaktan Kontrol Edilebilen Akıllı Işık Düğmesi, Gerçek Zamanlı Bildirimler, Kabloya Gerek Yok, Pil dahil, Kolay Kurulum ve Kullanım, Tapo Hub Gereklidir Ayrıca Satılır ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Akıllı eylemler: Birden fazla ışığı, elektronik aksamı ve diğer Tapo akıllı cihazlarını düğmeyle kontrol edin ve ayarlayın
+Özelleştirilmiş eylemler: Tek dokunma, çift dokunma ve döndürme seçenekleri, tek bir düğmeden birden çok eylemi tetiklemenizi sağlar
+Tek tıkla alarm
+Birden fazla konumdan kontrol
+Uzun pil ömrü: Pil bir yıldan fazla dayanır
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51U9rzJgexL._AC_SX300_SY300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>720.00</listPrice>
+    <price>2096.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0BJQVQ49Q</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;TP-Link Tapo S200D, Uzaktan Kontrol Edilebilen Akıllı Işık Düğmesi, Gerçek Zamanlı Bildirimler, Kabloya Gerek Yok, Pil dahil, Kolay Kurulum ve Kullanım, Tapo Hub Gereklidir Ayrıca Satılır&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935096</id>
+    <productCode>TDE-DC935096</productCode>
+    <barcode>8689500801595</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Spor Fitness Aletleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Spor Fitness Aletleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Çok ]]&gt;</brand>
+    <name>&lt;![CDATA[ Çok Amaçlı Egzersiz Yayı, 5 Yaylı Çelik Spor Aleti, 5 Kademe Sertlik Ayarlanabilir, Kuvvet Arttırma ve Zayıflamaya Yardımcı, Tüm Vücut Kullanımına Uygun, Dayanıklı Çelik Yaylar, Ev Tipi Fitness Aleti ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Ayarlanabilir 5 Kademe Sertlik: 5 adet çelik yay sayesinde sertlik seviyesini kolayca ayarlayabilirsiniz. Başlangıç seviyesinden profesyonel sporculara kadar herkesin ihtiyacına uyum sağlar. Kuvvetinizi kademeli olarak artırmanıza imkan tanır. Hem kas dayanıklılığınızı hem de gücünüzü uzun vadede geliştirecek esnek bir antrenman çözümü sunar.
+Tam Vücut Çalışma İmkanı: Üst, alt ve merkez bölge kaslarını aynı anda çalıştırarak dengeli bir vücut gelişimi sağlar. Göğüs, sırt, omuz, kol, bacak ve karın kaslarının koordineli şekilde çalışmasına yardımcı olur. Düzenli kullanımda kas tonusunu belirginleştirir. Tüm vücut gücünüzü artırarak hem estetik hem de performans odaklı sonuçlar elde etmenizi sağlar.
+Dayanıklı Çelik Yay Yapısı: Yüksek kaliteli çelik yaylar, uzun süreli kullanımda bile performansını korur. Aşınma ve deformasyona karşı dayanıklıdır. Yoğun antrenmanlarda dahi güvenli bir kullanım sunar. Esnek yapısıyla farklı egzersiz türlerine kolayca uyum sağlar. Bu sayede cihazınız, yıllar boyunca ilk günkü gibi verimli çalışmaya devam eder.
+Taşınabilir ve Hafif Tasarım: Kompakt boyutları sayesinde kolayca taşınabilir ve depolanabilir. Seyahatlerde, iş yerinde veya açık hava egzersizlerinde yanınızda bulundurabilirsiniz. Evde fazla yer kaplamadan saklanabilir. İstediğiniz her yerde spor yapma özgürlüğü sunarak antrenman alışkanlığınızı sürekli kılmanıza yardımcı olur.
+Çok Yönlü Kullanım Alanı: Fitness, rehabilitasyon ve güçlendirme antrenmanlarında kullanılabilir. Profesyonel sporcuların yanı sıra evde spor yapan bireyler için de uygundur. Esnek yapısı sayesinde farklı egzersiz kombinasyonlarına uyum sağlar. Her yaş ve seviyedeki kullanıcıya hitap eden çok yönlü bir spor ekipmanıdır. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71n-OtsKNwL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1490.00</listPrice>
+    <price>3805.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0FM648Q19</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Çok Amaçlı Egzersiz Yayı, 5 Yaylı Çelik Spor Aleti, 5 Kademe Sertlik Ayarlanabilir, Kuvvet Arttırma ve Zayıflamaya Yardımcı, Tüm Vücut Kullanımına Uygun, Dayanıklı Çelik Yaylar, Ev Tipi Fitness Aleti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935097</id>
+    <productCode>TDE-DC935097</productCode>
+    <barcode>8683740021669</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Robot Süpürge Parçaları ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Robot Süpürge Parçaları ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Dreame ]]&gt;</brand>
+    <name>&lt;![CDATA[ Dreame D10 Plus Gen 2 / L10s Plus Robot Süpürge için 8 Adet Toz Torbası, 4L Büyük Kapasiteli Elektrikli Süpürge Torbası Aksesuarı ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Uyumlu model: Toz torbası Dreame D10 Plus Gen 2 / L10s Plus süpürge robotları için uygundur. Lütfen satın almadan önce robot süpürge modelinizi onaylayın.
+4 Litre Büyük Kapasite: Filtre torbası 4 litrelik büyük bir kapasiteye sahiptir ve 90 güne kadar toz depolayabilir.
+Yüksek filtreleme performansı: Torba eriyik üflemeli kumaştan ve dokusuz kumaştan oluşur, toz parçacıklarının %99,9'unu ve 2,5 µm'ye kadar alerjenleri etkili bir şekilde filtreler.
+Güçlü sızdırmazlık: Toz torbası kendi kendine kilitlenme özelliğine ve 4 katmanlı filtre koruma tasarımına sahiptir. Daha iyi sızdırmazlık ve uzun ömürlü.
+Kolayca takılır: Kurulum yöntemi, orijinal toz torbası yedek parçalarıyla aynıdır ve kullanımı basittir. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71+roFuDE6L._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>569.00</listPrice>
+    <price>1673.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0DN9ZKY72</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Dreame D10 Plus Gen 2 / L10s Plus Robot Süpürge için 8 Adet Toz Torbası, 4L Büyük Kapasiteli Elektrikli Süpürge Torbası Aksesuarı&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935098</id>
+    <productCode>TDE-DC935098</productCode>
+    <barcode>8687422462450</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Robot Süpürge Parçaları ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Robot Süpürge Parçaları ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Viomi ]]&gt;</brand>
+    <name>&lt;![CDATA[ Viomi İle Uyumlu V2 Robot Süpürge - Siyah Mop Bezi Tutucu ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Uyumlu Yedek Parça Aksesuar ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51qJiI+0UOL._AC_SY879_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>999.00</listPrice>
+    <price>2877.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HFGLW4S8</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Viomi İle Uyumlu V2 Robot Süpürge - Siyah Mop Bezi Tutucu&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935099</id>
+    <productCode>TDE-DC935099</productCode>
+    <barcode>8680420348504</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Bahçe Sulama Hortumu ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Bahçe Sulama Hortumu ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Kupa ]]&gt;</brand>
+    <name>&lt;![CDATA[ Kupa 15 Metre Uzayan Hortum Seti - 7 Fonksiyonlu Tabanca ve 1/2 İnç Musluk Adaptörü - Esnek Bahçe Hortumu, Araba Yıkama ve Sulama Seti - Dayanıklı ve Hafif Tasarım ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+15 Metre Uzayan Esnek Yapı: Kupa uzayan hortum, su basıncıyla birlikte kendi uzunluğunun katlarına çıkarak 15 metreye kadar ulaşır. Kullanım sonrası su tahliye edildiğinde otomatik olarak kısalır, böylece bahçenizde yer kaplamaz ve karmaşaya yol açmaz.
+7 Farklı Püskürtme Modu: Set içerisinde yer alan ergonomik sulama tabancası; Flat, Shower, Mist, Center gibi 7 farklı püskürtme moduna sahiptir. Çiçek sulamadan araç yıkamaya, evcil hayvan temizliğinden balkon yıkamaya kadar her iş için ideal modu kolayca seçebilirsiniz.
+Extra Güçlü ve Dayanıklı Malzeme: "Extra Güçlü" serisi olarak tasarlanan bu hortum, yüksek basınca ve dış etkenlere karşı dayanıklı dokuma kumaş kaplamaya sahiptir. Katlanma, bükülme veya düğümlenme yapmaz; kesintisiz su akışı sağlar.
+Tam Set ve Kolay Kurulum: Paket içeriğinde 15 metre uzayan hortum, 7 fonksiyonlu tabanca ve 1/2 inç musluk adaptörü standart olarak sunulur. "Tak-çalıştır" mekanizması sayesinde herhangi bir teknik alete ihtiyaç duymadan saniyeler içinde kullanıma hazır hale gelir.
+Hafif ve Ergonomik Tasarım: Geleneksel ağır kauçuk hortumların aksine oldukça hafiftir. Çocuklardan yaşlılara kadar herkes tarafından zahmetsizce taşınabilir ve kullanım sonrası küçük bir saksı içinde dahi saklanabilir.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61a5HQLpdVL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>927.00</listPrice>
+    <price>2675.60</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GY4ZWN9R</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Kupa 15 Metre Uzayan Hortum Seti - 7 Fonksiyonlu Tabanca ve 1/2 İnç Musluk Adaptörü - Esnek Bahçe Hortumu, Araba Yıkama ve Sulama Seti - Dayanıklı ve Hafif Tasarım&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935100</id>
+    <productCode>TDE-DC935100</productCode>
+    <barcode>8685519457655</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kamp Çadırı Uyku Tulumu ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kamp Çadırı Uyku Tulumu ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Haki ]]&gt;</brand>
+    <name>&lt;![CDATA[ Haki Uyku Tulumu(-25 derece) Su Geçirmez(215×75 CM) 220 gr Elyaf/180 gr Polar Kamp&amp;deprem ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+içi polar
+su geçirmez
+kılıflı
+ekstrem -25 comfort -5/0 derece ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61RdOeJk5qL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1399.00</listPrice>
+    <price>3577.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HP42PH1Z</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Haki Uyku Tulumu(-25 derece) Su Geçirmez(215×75 CM) 220 gr Elyaf/180 gr Polar Kamp&amp;deprem&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935101</id>
+    <productCode>TDE-DC935101</productCode>
+    <barcode>8687768698681</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kamp Çadırı Uyku Tulumu ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kamp Çadırı Uyku Tulumu ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Naturehike ]]&gt;</brand>
+    <name>&lt;![CDATA[ Naturehike Kamp uyku tulumu, hafif, su geçirmez ve taşınabilir, yetişkinler için, 3 mevsim, yürüyüş, dış mekan ve iç mekan, saklama çantasıyla birlikte kullanılır ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+[Cilt dostu ve dayanıklı] Kılıf malzemesi: 190T polyester, aşınmaya dayanıklı ve su geçirmez; Astar malzemesi: 190T ponje, cilt dostu ve rahat. Dolgu: %100 içi boş pamuk, nefes alabilir ve sıcak, yatakta uyku hissi verir. Rahat sıcaklık 7-11 ℃, 3 mevsimde seyahat ederken kendinizi rahat hissetmenizi sağlar.
+[Hafif ve Taşınabilir] Boyut: 210*75 cm, böylece özgürce çevirebilir ve bebek gibi sağlıklı bir şekilde uyuyabilirsiniz. Paket boyutu: 20 * 20 * 43 cm / 7,87 * 7,87 * 17 Ağırlık: sadece 1,2 kg. Yürüyüşe veya kampa giderken taşıması çok hafiftir ve rahattır.
+Çift kişilik uyku tulumu: Sıcak alt kısımdaki ayrı büzme ipli fermuar ayaklarınızı rüzgarda dışarı çıkarabilir. Sizi sıcak tutmak için yarım daire kapüşonlu ayarlanabilir büzme ipi. Uyku tulumu birleştirilebilir (bir sol + bir sağ), çiftler veya arkadaşlar için geniş ve rahat bir uyku ortamı sağlar.
+ÇOK FONKSİYONLU VE SENARYO Kamp uyku tulumu, açık hava etkinlikleri için en iyi seçimdir, bu da yorucu bir yürüyüş, seyahat veya başka bir keşif gününden sonra iyi bir rahatlatıcı gece uykusu çekmenizi sağlar.
+[%100 Memnuniyet] Zorluk yok, gecikme yok, soru yok. Beklentilerinizi karşılamıyorsa ilk 30 gün için tam bir geri ödeme sunuyoruz ve satın alma ömrünüzün yerine geçecek bir mesaj gönderin ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61I0W5K6qnL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>2866.00</listPrice>
+    <price>7245.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0BXWQLSKW</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Naturehike Kamp uyku tulumu, hafif, su geçirmez ve taşınabilir, yetişkinler için, 3 mevsim, yürüyüş, dış mekan ve iç mekan, saklama çantasıyla birlikte kullanılır&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935102</id>
+    <productCode>TDE-DC935102</productCode>
+    <barcode>8689098706968</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kedi Köpek Mama Kabı ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kedi Köpek Mama Kabı ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ DUFFA ]]&gt;</brand>
+    <name>&lt;![CDATA[ DUFFA Paslanmaz Çelik Kedi Mama Ve Su Kabı, Köpek Çelik Mama Kabı, Kaymaz Lastikli Taban, Dayanıklı Besleme Tası, Kolay Temizlenebilir, 8 oz/250 ml (2 Adet) (2 Adet 16 Cm) ]]&gt;</name>
+    <description>&lt;![CDATA[ Birinci Sınıf Paslanmaz Çelik: Yüksek kaliteli, gıda sınıfı paslanmaz çelikten üretilmiştir. Plastik kapların aksine bakteri barındırmaz, koku yapmaz ve uzun ömürlüdür.
+Kaymaz &amp; Devrilmez Tasarım: Alt kısmındaki özel silikon/lastik taban sayesinde evcil hayvanınız yemek yerken kap kaymaz, zemini çizmez ve gürültü yapmaz.
+Zahmetsiz Temizlik: Pürüzsüz iç yüzeyi sayesinde elde kolayca yıkanabilir veya bulaşık makinesinde temizlenebilir. Hijyenik bir beslenme alanı sağlar.
+Tüm Evcil Hayvanlar İçin Uygun: Hem kediler hem de küçük/orta/büyük boy köpekler için ideal derinlik ve genişlikte tasarlanmıştır. Su, kuru mama veya yaş mama için mükemmeldir.
+Dayanıklı ve Güvenli: Darbelere karşı dayanıklıdır, kırılmaz. BPA içermez ve evcil hayvanınızın sağlığına zarar verecek hiçbir madde barındırmaz. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61y-HVWi+dL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>224.00</listPrice>
+    <price>752.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GYQ8987D</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;DUFFA Paslanmaz Çelik Kedi Mama Ve Su Kabı, Köpek Çelik Mama Kabı, Kaymaz Lastikli Taban, Dayanıklı Besleme Tası, Kolay Temizlenebilir, 8 oz/250 ml (2 Adet) (2 Adet 16 Cm)&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935103</id>
+    <productCode>TDE-DC935103</productCode>
+    <barcode>8689829986225</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kedi Köpek Mama Kabı ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kedi Köpek Mama Kabı ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ AEE® ]]&gt;</brand>
+    <name>&lt;![CDATA[ AEE® 2'li Doğal Hijyenik Fırınlanmış Seramik Kedi Mama Ve Su Kabı Seti ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+%100 DOĞAL SERAMİK MALZEME: Fırınlanmış doğal seramik, sağlıklı ve dayanıklı bir kullanım sunar.
+HİJYENİK VE KOLAY TEMİZLENEBİLİR: Lekelere dayanıklı yüzeyi sayesinde kolayca temizlenir, kedinizin sağlığına zarar vermez.
+UZUN ÖMÜRLÜ KULLANIM: Yüksek sıcaklıkta fırınlama işlemiyle ekstra dayanıklılık kazandırılmıştır. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61OqOrjmLJL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>300.00</listPrice>
+    <price>980.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0DJBYMKPH</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;AEE® 2'li Doğal Hijyenik Fırınlanmış Seramik Kedi Mama Ve Su Kabı Seti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935104</id>
+    <productCode>TDE-DC935104</productCode>
+    <barcode>8686608778835</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Banyo Aksesuarları ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Banyo Aksesuarları ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ TİNEKE ]]&gt;</brand>
+    <name>&lt;![CDATA[ TİNEKE GRİ Renk Kare Kötü Koku Önleyici Silikon Mat Banyo Mutfak Lavabo Balkon Gider Tıpası Kapağı ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+TİNEKE GRİ Renk Kare Kötü Koku Önleyici Silikon Mat Banyo Mutfak Lavabo Balkon Gider Tıpası Kapağı ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61QmP5SjLqL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>115.00</listPrice>
+    <price>425.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0DRW8XY1X</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;TİNEKE GRİ Renk Kare Kötü Koku Önleyici Silikon Mat Banyo Mutfak Lavabo Balkon Gider Tıpası Kapağı&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935105</id>
+    <productCode>TDE-DC935105</productCode>
+    <barcode>8681451233227</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Banyo Aksesuarları ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Banyo Aksesuarları ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Vantuzlu ]]&gt;</brand>
+    <name>&lt;![CDATA[ Vantuzlu Banyo ve Duş Kaydırmazı, Kaydırmaz Duş Matı, Duşa Kabin Küvet İçi Vantuzlu Banyo Paspası (35x69 cm) (Gri) ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Kaymaz taban özelliği sayesinde banyoda güvenli bir kullanım sunar.
+Vantuzlu yapısıyla zemine daha kuvvetle tutunarak kaymayı engeller.
+Uzunluğu 69 cm ve eni 35 cm'dir.
+Termoplastik elastomerden üretilmiştir.
+Banyo ve küvetinize güzel bir görünüş katar. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61E3KtSC06L._AC_SX679_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>342.00</listPrice>
+    <price>1037.60</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0G1K6QY2Y</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Vantuzlu Banyo ve Duş Kaydırmazı, Kaydırmaz Duş Matı, Duşa Kabin Küvet İçi Vantuzlu Banyo Paspası (35x69 cm) (Gri)&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935106</id>
+    <productCode>TDE-DC935106</productCode>
+    <barcode>8689096229377</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Banyo Aksesuarları ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Banyo Aksesuarları ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ VitrA ]]&gt;</brand>
+    <name>&lt;![CDATA[ VitrA Marin A44947 İkili Askı, Krom ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Menşe Ülke: Çin
+Zamak Üzeri Krom Kaplama
+Ergonomik Tasarım
+Sağlam Yapılı ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51QzS+3Q2CL._AC_SX679_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>255.00</listPrice>
+    <price>845.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B07D6XJ217</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;VitrA Marin A44947 İkili Askı, Krom&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935107</id>
+    <productCode>TDE-DC935107</productCode>
+    <barcode>8685950023167</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Banyo Aksesuarları ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Banyo Aksesuarları ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Busstier ]]&gt;</brand>
+    <name>&lt;![CDATA[ Busstier Mutfak Banyo Duş Musluk Üstü Tek Katlı Raf: Sabun Sünger Askısı ile Pratik Depolama Çözümü ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Musluk Üstü Tasarım: Mutfak ve banyo musluklarınıza kolay montaj.
+Tek Katlı Depolama: Sabun, sünger ve diğer küçük eşyalar için ideal.
+Sabun ve Sünger Askısı: Düzenli depolama ve kolay erişim.
+Alan Tasarrufu: Sınırlı alanları verimli kullanma.
+Kolay Kurulum: Takma gerektirmeyen, pratik montaj.
+Dayanıklı Malzeme: Uzun ömürlü ve paslanmaz yapı.
+Su Sıçramalarına Dayanıklı: Nemli ortamlarda kullanıma uygun.
+Daha fazla göster ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61Xux3qTRAL._AC_SX679_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>182.00</listPrice>
+    <price>626.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0CZ7PPPDK</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Busstier Mutfak Banyo Duş Musluk Üstü Tek Katlı Raf: Sabun Sünger Askısı ile Pratik Depolama Çözümü&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935108</id>
+    <productCode>TDE-DC935108</productCode>
+    <barcode>8689216138916</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ IP Güvenlik Kamerası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ IP Güvenlik Kamerası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Anunnaki ]]&gt;</brand>
+    <name>&lt;![CDATA[ Anunnaki 4'li 4MP IP Kamera Seti — 4 Kanal NVR, 500GB Hard Disk, PoE Switch, Gece Görüşlü, Sesli, Metal Kasa, Dış Mekan Güvenlik Kamera Sistemi ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+4 ADET 4MP KAMERA — 2560x1440 çözünürlük, 3.6mm lens, metal kasa, dış mekana uygun
+4 KANAL NVR + 500GB HARD DİSK — kesintisiz kayıt, uzun süreli arşiv
+GECE GÖRÜŞÜ VE SES KAYDI — karanlıkta net görüntü, dahili mikrofonla ortam sesi
+PoE İLE TEK KABLO — AN1024MN 4 Port PoE Switch dahil; her kameraya güç ve veri tek kablodan gider
+KURULUMA HAZIR — 50 m Cat6 kablo ve montaj aparatları kutuda
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61UALXsElZL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>10353.00</listPrice>
+    <price>20786.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HJ6MGDX8</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Anunnaki 4'li 4MP IP Kamera Seti — 4 Kanal NVR, 500GB Hard Disk, PoE Switch, Gece Görüşlü, Sesli, Metal Kasa, Dış Mekan Güvenlik Kamera Sistemi&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935109</id>
+    <productCode>TDE-DC935109</productCode>
+    <barcode>8680613707804</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ IP Güvenlik Kamerası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ IP Güvenlik Kamerası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ CATA ]]&gt;</brand>
+    <name>&lt;![CDATA[ CATA CT-4050 CATA Akıllı Ip Kamera, 360° Dönebilen Gece Görüşlü, Full HD-1080P ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Uzun süreli kullanım
+Kolay kullanım
+Geniş kullanım alanı
+Model numarası: CT-4050 ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/31F2pNiSnRL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>948.00</listPrice>
+    <price>2734.40</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B09MJ5669X</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;CATA CT-4050 CATA Akıllı Ip Kamera, 360° Dönebilen Gece Görüşlü, Full HD-1080P&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935110</id>
+    <productCode>TDE-DC935110</productCode>
+    <barcode>8686012754043</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Matkap Ucu Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Matkap Ucu Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Bosch ]]&gt;</brand>
+    <name>&lt;![CDATA[ Bosch X-Line 15+1 Matkap Vidalama Ucu Seti ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+3 taş matkap ucu Ø 5 / 6 / 8 mm (duvar, kireç, doğal ve yapay taş için), 3 ahşap matkap ucu Ø 4 / 6 / 8 mm (sert ahşap, yumuşak ahşap ve plastik için), 1 x el aleti
+8 tornavida ucu L = 25 mm (PH 1/2, PZ 1/2, S 4/6, T 20/25), 1 evrensel tutucu manyetik
+Elde ve sabit kullanımda tüm matkaplar için
+Mini-X-Line karışık set, ahşap ve taşta çok yönlü kullanım olanakları için uygundur
+Pratik Bosch Mini-X-Line Box düzen ve düzen sağlar
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/91H9wewdmxL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>265.00</listPrice>
+    <price>782.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B08L53PLBM</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Bosch X-Line 15+1 Matkap Vidalama Ucu Seti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935111</id>
+    <productCode>TDE-DC935111</productCode>
+    <barcode>8681353538420</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Matkap Ucu Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Matkap Ucu Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Bosch ]]&gt;</brand>
+    <name>&lt;![CDATA[ Bosch Professional - Pointteq Matkap Ucu 10 Parça Set ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Metalde Hızlı Delme
+HSS Twist Drill Bit PointTeQ, PointTeQ uç tasarımı sayesinde metalde hızlı delme olanağı sağlar
+Kendiliğinden merkezlemeli uç, yalpalamayı önleyerek hızlı ve kolay delme başlangıcı olanağı sunar
+Yüksek delme hızıyla daha az ısınma ve yıpranma oluşur
+PointTeQ uç tasarımı keskinliğini korur ve devamlı dayanıklılık sunar
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71aB0F96aoL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>557.00</listPrice>
+    <price>1376.80</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B078W5JR55</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Bosch Professional - Pointteq Matkap Ucu 10 Parça Set&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935112</id>
+    <productCode>TDE-DC935112</productCode>
+    <barcode>8682208551700</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Matkap Ucu Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Matkap Ucu Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Einhell ]]&gt;</brand>
+    <name>&lt;![CDATA[ Einhell Orijinal 7 Parça SDS Plus Matkap Ucu Seti, 160 mm 49265510 ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Hepsi bir arada çözüm – 7 parçadan oluşan beton matkap ucu seti, beton ve betonarme üzerinde çok yönlü delme işleri için en önemli çapları içerir: 2x 6 / 2x 8 / 10 / 12 / 14 mm.
+Karbür uç – Darbeye dayanıklı, dört ağızlı karbür uç ile donatılan SDS Plus matkap ucu seti, sert malzemelerde yüksek performans sunar.
+40Cr takım çeliği – SDS Plus matkap uçlarının sağlam gövdesi, yüksek kaliteli 40Cr takım çeliğinden üretilmiştir ve uzun kullanım ömrü ile verimli delme ilerlemesi sağlar.
+Merkezleme ucu – SDS Plus saplı matkap uçlarındaki merkezleme ucu sayesinde kolay ve hassas delme mümkündür.
+Freze edilmiş çift spiral – Freze edilmiş çift helisli spiral tasarım, SDS Plus kırıcı matkap ucunun delme tozunu hızlı ve etkili şekilde tahliye etmesini sağlar.
+Özel plaka geometrisi – Özel uç geometrisi, SDS Plus beton matkap uçlarının donatıya temas ettiğinde sıkışmasını önler.
+SDS Plus bağlantı sistemi – SDS Plus saplı beton matkap ucu seti, piyasadaki tüm standart kırıcı-delici matkaplarla uyumludur ve maksimum esneklik sunar. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/41LQ-f4aW7L._SX342_SY445_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>746.00</listPrice>
+    <price>2168.80</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0DBHL39SB</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Einhell Orijinal 7 Parça SDS Plus Matkap Ucu Seti, 160 mm 49265510&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935113</id>
+    <productCode>TDE-DC935113</productCode>
+    <barcode>8681952283943</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Matkap Ucu Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Matkap Ucu Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Einhell ]]&gt;</brand>
+    <name>&lt;![CDATA[ Einhell XL-CASE 95 Parça Darbeli Bit Ucu ve Matkap Ucu Seti 49108798 ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Darbeye dayanıklı uçlar – Manganez fosfatlı S2 çeliği sayesinde, Einhell matkap ucu setinin C 6.3 saplı 25 mm uçlar ve E 6.3 saplı 50 mm uçlar dayanıklılıklarıyla etkileyicidir.
+Matkap ucu seti – Einhell seti, 135° ayrık uçlu metal matkap uçları, karbür uçlu duvar matkap uçları, ahşap matkap uçları ve orta uçlu düz ahşap matkap uçları içerir.
+Darbeye dayanıklı uç tutucu – Einhell matkap ve uç setinin bir parçası olan paslanmaz çelik manşonlu 60 mm uç tutucunun güçlü mıknatısı güvenli, hassas uç kılavuzu sağlar.
+Darbeye dayanıklı soketler – Einhell aksesuar setinin bir parçası, altıgen soketli, sağlam CV çeliğinden yapılmış, manganez fosfatlı, darbeye dayanıklı soketlerdir.
+Havşa ve matkap durdurucu – Einhell kutusunun 12 mm havşa açma kısmı vidaların aynı hizada havşa açılmasını sağlarken, matkap durdurucular derinliği sınırlı delme olanağı sağlar.
+Pratik saklama kutusu – Einhell uç seti, içindekilerin düzenli bir şekilde gözden geçirilmesi için şeffaf bir kapağa ve sağlam bir otomatik kilitli klips kapağına sahiptir.
+Markadan bağımsız – Popüler (darbeli) akülü vidalama makineleri ve matkaplardaki tüm yaygın mandrenler ve uç tutucular için uygun olan Einhell uç seti, maksimum esneklik sunar.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71SqPyDpaSL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>3185.00</listPrice>
+    <price>8042.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0CB15BMH9</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Einhell XL-CASE 95 Parça Darbeli Bit Ucu ve Matkap Ucu Seti 49108798&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935114</id>
+    <productCode>TDE-DC935114</productCode>
+    <barcode>8681121295944</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Elektrikli El Aletleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Elektrikli El Aletleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ CAT ]]&gt;</brand>
+    <name>&lt;![CDATA[ CAT DXK302 18V Şarjlı Kombo Set, 3 Parça Kömürsüz Profesyonel Elektrikli El Aletleri, 4.0Ah Li-ion, 50Nm Tork, 39 Parça Aksesuar ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+CAT DX1010 18Volt 50Nm. Kömürsüz Profesyonel Şarjlı Darbeli Matkap
+CAT DX2150 18Volt 2.8J Kömürsüz Profesyonel SDS-Plus Şarjlı Kırıcı/Delici
+CAT DX3131 18Volt 115mm Kömürsüz Profesyonel Şarjlı Avuç Taşlama
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61U099kIXFL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>19068.00</listPrice>
+    <price>28642.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GS3V3HGP</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;CAT DXK302 18V Şarjlı Kombo Set, 3 Parça Kömürsüz Profesyonel Elektrikli El Aletleri, 4.0Ah Li-ion, 50Nm Tork, 39 Parça Aksesuar&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935115</id>
+    <productCode>TDE-DC935115</productCode>
+    <barcode>8684967297561</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Elektrikli El Aletleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Elektrikli El Aletleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Steiner ]]&gt;</brand>
+    <name>&lt;![CDATA[ Steiner Alman 3000 Watt 6 Kademe Devir Ayarlı Formika Traşlama Freze Makinesi 6 Mm Pens - ST0518R215400322 ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Ahşap bağlantılar ve iş parçalarında ve kaplama işlerinde kullanılan formika gibi levhalarda kaba kesim işlemlerinden sonra şekil vermeye yarayan çok yönlü bir makinadır
+Ürün stok durumuna göre Sarı veya Mavi renk gönderilmektedir
+Steiner devir ayarlı 3000 watt formika traşlama freze makinası 6 mm pens Ahşap bir iş parçasında daha büyük makinalarla kaba kesim işlemleri yapıldıktan sonra, yüzeye şekil vermek, rende yapmak, düzeltmek için bu harika makina kolaylıkla tercih edilebilir
+Çalışma malzemeleri ahşap olan bir çok sektörde planya makinaları kullanılmaktadır
+Bunların en başında marangozhaneler, mobilya ve ahşap atölyeleri, bazı ahşap sanatlarının yapıldığı hobi atölyeleri gelmektedir
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/81EJuIr66OL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1499.00</listPrice>
+    <price>3827.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0BN5WG68C</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Steiner Alman 3000 Watt 6 Kademe Devir Ayarlı Formika Traşlama Freze Makinesi 6 Mm Pens - ST0518R215400322&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935116</id>
+    <productCode>TDE-DC935116</productCode>
+    <barcode>8680515556326</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Elektrikli El Aletleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Elektrikli El Aletleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ WORKPRO ]]&gt;</brand>
+    <name>&lt;![CDATA[ WORKPRO WP390016 20Volt 65Nm. Kömürsüz Profesyonel Şarjlı Darbeli Matkap (Akü Dahil Değildir) ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+WORKPRO WP390016 20Volt 65Nm. Kömürsüz Profesyonel Şarjlı Darbeli Matkap (Akü Dahil Değildir)
+Workpro
+Menşei : TR
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61P-haW-DuL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>2148.00</listPrice>
+    <price>4336.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HMJRJJT6</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;WORKPRO WP390016 20Volt 65Nm. Kömürsüz Profesyonel Şarjlı Darbeli Matkap (Akü Dahil Değildir)&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935117</id>
+    <productCode>TDE-DC935117</productCode>
+    <barcode>8689980889113</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Einhell ]]&gt;</brand>
+    <name>&lt;![CDATA[ Einhell Professional Akülü Darbeli Vidalama TP-CD 18/80 Li-i BL 4514305 ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Power X-Change – Akülü Darbeli Vidalama TP-CD 18/80 Li-i BL - Solo, Einhell Power X-Change ailesinin bir parçasıdır. Bu seride cihazlar, aküler ve şarj cihazları birbirleriyle esnek bir şekilde birleştirilebilir.
+4 Fonksiyon, 1 Cihaz – 2,6 Joule darbe gücüne sahip akülü darbeli vidalama, dört fonksiyonu bir araya getirir: Delme, darbeli delme, kırma ve keskileme,
+PurePOWER Kömürsüz - Az bakım gerektiren ve güçlü kömürsüz motor, geleneksel kömürlü motorlara kıyasla daha uzun çalışma süresiyle maksimum performans sağlar,Motor, üyelik sonrası 10 yıl garantilidir,
+Çok fonksiyonlu – Hassas devir ayarı sayesinde kontrollü delme, pnömatik darbe mekanizması sayesinde ise en sert malzemelerde bile güçlü ilerleme sağlanır,
+Hassas delme derinliği – Derinlik mesnedi sayesinde deliklerin ne kadar derin olacağı tam olarak belirlenebilir,Kırıcı delici SDS-Plus mandren ile donatılmıştır,
+Konfor – Softgrip, titreşim sönümleme sistemi ve ilave tutamak sayesinde alet güvenli bir şekilde tutulur,Entegre LED ışık, çalışma alanını net bir şekilde aydınlatır,
+Akü dahil değildir – Akülü Darbeli Vidalama TP-CD 18/80 Li-i BL - Solo, pratik taşıma çantasıyla birlikte gelir, ancak akü ve şarj cihazı dahil değildir,Bunlar ayrı olarak temin edilebilir
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71H-ecD+YCL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>4039.00</listPrice>
+    <price>10177.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0CKX6GCMB</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Einhell Professional Akülü Darbeli Vidalama TP-CD 18/80 Li-i BL 4514305&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935118</id>
+    <productCode>TDE-DC935118</productCode>
+    <barcode>8681434218876</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Kimmeer ]]&gt;</brand>
+    <name>&lt;![CDATA[ Kimmeer Plus 12V 1.5 Ah Çift Akülü Metal Şanzımanlı Matkap Seti ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+ÇİFT AKÜLÜ TASARIM: 12V 1.5 Ah kapasiteli iki adet akü ile kesintisiz çalışma imkânı sunar.
+METAL ŞANZIMAN: Dayanıklı metal şanzımanlı yapısı sayesinde hem delme hem de vidalama işlemlerinde güçlü performans sağlar.
+ZENGİN AKSESUAR SETİ: 24 parçalık kapsamlı aksesuar seti ile farklı delme ve vidalama ihtiyaçlarınızı karşılar.
+TAŞIMA ÇANTASI: Ürünle birlikte gelen özel taşıma çantası sayesinde tüm parçaları düzenli ve güvenli şekilde saklayabilirsiniz.
+ÇIFT FONKSIYONLU KULLANIM: Hem akülü delme hem de vidalama makinesi olarak kullanılabilen çok yönlü bir elektrikli el aletidir.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/612o6z186vL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1150.00</listPrice>
+    <price>2955.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HM6124SS</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Kimmeer Plus 12V 1.5 Ah Çift Akülü Metal Şanzımanlı Matkap Seti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935119</id>
+    <productCode>TDE-DC935119</productCode>
+    <barcode>8685169900181</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Steiner ]]&gt;</brand>
+    <name>&lt;![CDATA[ Steiner Alman Titan 36 V Sjs Çift Metal Şanzuman Çift Akülü Şarjlı Vidalama Matkap + 24 Parça Set ]]&gt;</name>
+    <description>&lt;![CDATA[ 36V güçlü çift akülü şarjlı vidalama matkap sistemi
+SJS teknolojisi ile güvenli ve verimli çalışma
+Çift metal şanzıman ile üstün dayanıklılık
+24 parça aksesuar seti ile komple çözüm
+Alman Steiner kalitesi ve titan dayanıklılığı
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71tg+kWBbIL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>999.00</listPrice>
+    <price>2877.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0DWSGMHXG</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Steiner Alman Titan 36 V Sjs Çift Metal Şanzuman Çift Akülü Şarjlı Vidalama Matkap + 24 Parça Set&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935120</id>
+    <productCode>TDE-DC935120</productCode>
+    <barcode>8680418431522</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Dager ]]&gt;</brand>
+    <name>&lt;![CDATA[ Dager BOLT 16.8V Kömürsüz Darbeli Şarjlı Matkap Vidalama Seti | 60Nm | Çift Akü + 85 Parça Aksesuar + Hızlı Şarj | Gri ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+🔥 Kömürsüz Motor Yeni nesil brushless motor, %50 daha uzun motor ömrü ve %30 daha az enerji tüketimi sağlar. Daha az ısınır, gücünü uzun süre kaybetmez.
+🔩 Beton, Metal, Ahşap – Tek Makineyle Hepsi 60 Nm yüksek tork ve darbeli delme fonksiyonu sayesinde sert betonlardan ince metal yüzeylere kadar her işte güçlü ve kontrollü performans sunar.
+🔋 Çift Akü + 2 Saat Hızlı Şarj = İşin Yarım Kalmaz 2 adet 16.8V Li-ion akü ile biri çalışırken diğeri şarj olur. Yaklaşık 2 saatlik şarj süresiyle gün boyu kesintisiz kullanım sağlar.
+🧩 Yedek Mandren + Dübel-Vida Seti Dahil Görselde yer alan yedek mandren ve organizer kutulu dübel seti, montaj ve kurulum işlerinde ekstra hız ve pratiklik kazandırır.
+✨ 1,4 kg Hafif &amp; Ergonomik Tasarım Kaymaz sap, dengeli gövde ve hafif yapısı sayesinde uzun süreli kullanımlarda bile bileği yormaz. Tavan ve dar alan çalışmaları için idealdir.
+💡 Güçlü LED Aydınlatma ile Net Görüş Karanlık köşelerde, dolap içlerinde ve loş ortamlarda çalışma alanınızı aydınlatarak daha güvenli ve hatasız kullanım sağlar.
+🛠️ Hassas Vidalama &amp; Profesyonel Kontrol Ayarlanabilir tork kademeleri sayesinde vida başlarını sıyırmadan, ahşap ve MDF yüzeylerde temiz ve kontrollü vidalama yapmanızı sağlar. Hem ince işlerde hem güçlü uygulamalarda tam hakimiyet sunar.
+Daha fazla göster ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71RZ2YXNozL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>2599.00</listPrice>
+    <price>6577.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0FKNP8BHQ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Dager BOLT 16.8V Kömürsüz Darbeli Şarjlı Matkap Vidalama Seti | 60Nm | Çift Akü + 85 Parça Aksesuar + Hızlı Şarj | Gri&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935121</id>
+    <productCode>TDE-DC935121</productCode>
+    <barcode>8685445588034</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Akülü Matkap Vidalama ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Einhell ]]&gt;</brand>
+    <name>&lt;![CDATA[ Einhell Professional Akülü Darbeli Vidalama TP-CD 18/120 Li-i BL-Solo ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Power X-Change ailesi – Einhell Professional TP-CD 18/120 Li-i BL Akülü Darbeli Vidalama, akü, şarj cihazı ve cihazların sistem genelinde birlikte kullanılabildiği Power X-Change ailesinin bir üyesidir.
+Kömürsüz Motor – Güçlü ve düşük bakım gerektiren Kömürsüz Motor, daha uzun çalışma süresiyle maksimum performans sunar. Üyelik sonrası motor 10 yıl garanti kapsamına girer.
+Darbeli delme fonksiyonu – Vidalama ve standart delme işlemlerine ek olarak darbeli delme fonksiyonu sayesinde taş ve duvar yüzeylerinde de kullanılabilir. İlave tutamak daha konforlu çalışma sağlar.
+Yüksek tork gücü – 21 kademeli tork ayarı ve maksimum 120 Nm tork gücü sayesinde delme ve vidalama işlemlerinde hassas güç kontrolü sunar.
+Metal mandren – Yüksek kaliteli 13 mm tek kollu metal hızlı açılabilir mandren sayesinde aksesuar değişimleri hızlı ve kolay şekilde yapılabilir.
+Hassas hız kontrolü – Elektronik hız kontrolü sayesinde malzemeye uygun çalışma sağlanır. Tork kaymalı kavrama sistemi vidaların aşırı sıkılmasını önler.
+Akü ve şarj cihazı dahil değildir – TP-CD 18/120 Li-i BL-Solo Akülü Darbeli Vidalama, Power X-Change akü ve şarj cihazı olmadan teslim edilir. Bunlar ayrı olarak temin edilebilir.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71f44dCv9uL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>5249.00</listPrice>
+    <price>7913.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0D46QMS2T</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Einhell Professional Akülü Darbeli Vidalama TP-CD 18/120 Li-i BL-Solo&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935122</id>
+    <productCode>TDE-DC935122</productCode>
+    <barcode>8684613275301</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Perçin ]]&gt;</brand>
+    <name>&lt;![CDATA[ Perçin Somun Seti 122 Parça ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+AY-CİV Perçin Somun Seti 122 Parça
+AY-CİV
+Menşei : TR ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51yxjPSZuKL._SY445_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>389.00</listPrice>
+    <price>1169.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HBQ97LDX</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Perçin Somun Seti 122 Parça&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935123</id>
+    <productCode>TDE-DC935123</productCode>
+    <barcode>8684118371119</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ 315 ]]&gt;</brand>
+    <name>&lt;![CDATA[ 315 Parça M8 YHB YSB Vida/Civata Somun Pul Rondela Seti ]]&gt;</name>
+    <description>&lt;![CDATA[ marka: Genel
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61SWpkEehCL._AC_SX522_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1584.00</listPrice>
+    <price>4040.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B08DG2F3PY</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;315 Parça M8 YHB YSB Vida/Civata Somun Pul Rondela Seti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935124</id>
+    <productCode>TDE-DC935124</productCode>
+    <barcode>8688068023579</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Beşik ]]&gt;</brand>
+    <name>&lt;![CDATA[ Beşik Vidaları Donanım Değiştirme Kiti - 16 Set Bebek Yatağı Çerçeve Cıvataları, Namlu Somunları ve Ahşap Dübel Pimleri Seti - M6x16/40/60/80 mm Altıgen Tahrik Soket Kapağı Vidaları Yataklar için ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Beşik Vidaları Donanım Değiştirme: Cıvata ve namlu somunları piyasadaki çoğu beşik ile uyumludur.
+Birinci sınıf malzeme: Beşik vidaları donanım değiştirme kitimiz birinci sınıf çinko kaplama karbon çeliğinden yapılmıştır.
+Boyut Dahil: Bebek yatağı beşik vidalar cıvatalar donanım kitimiz 16 adet m6 x 16 mm 40 mm 60 mm 80 mm cıvata ve 16 adet m6x12mm namlu somunları, 1 adet m6 anahtarı; 20 adet m6 x 16 mm ahşap dübel pimi içerir
+Geniş Uygulama: Bu bebek yatağı Vidaları donanım kitleri, beşikler, dolaplar, sandalyeler, gardıroplar, ranzalar vb. Gibi farklı mobilya türleri için yaygın olarak kullanılabilir. Mobilya satış sonrası onarım ve DIY hobi projeleri için harika
+Kalite Taahhüdü: Ürünlerimizin kalitesinin arkasındayız. Herhangi bir nedenle satın alma işleminizden memnun kalmazsanız, lütfen bizimle iletişime geçin. 60 günlük para iade ve 12 ay garanti veriyoruz. Risksiz alışveriş için %100 Memnuniyet Garantisi! ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71FhljrHVZL._SX425_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>6283.00</listPrice>
+    <price>12646.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0BPSWJTD3</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Beşik Vidaları Donanım Değiştirme Kiti - 16 Set Bebek Yatağı Çerçeve Cıvataları, Namlu Somunları ve Ahşap Dübel Pimleri Seti - M6x16/40/60/80 mm Altıgen Tahrik Soket Kapağı Vidaları Yataklar için&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935125</id>
+    <productCode>TDE-DC935125</productCode>
+    <barcode>8688063496880</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ 215 ]]&gt;</brand>
+    <name>&lt;![CDATA[ 215 Parça M6 YSB (Yıldız Silindir Başlı) Vida/Civata Somun Pul ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Renk: Standart
+Boyut: Standart
+Parça Numarası: 1
+Model Numarası: 1
+Marka: Genel
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61wMCyQAnqL._AC_SX522_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1008.00</listPrice>
+    <price>2600.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B08DG24B3L</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;215 Parça M6 YSB (Yıldız Silindir Başlı) Vida/Civata Somun Pul&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935126</id>
+    <productCode>TDE-DC935126</productCode>
+    <barcode>8682380414251</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Cıvata Somun Dübel Seti ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Würth ]]&gt;</brand>
+    <name>&lt;![CDATA[ Würth Shark Pro 8X46 10 lu Süper Siyah Ahtapot Dübel Buldex Vida ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Würth Shark Pro 8X46 10 lu Süper Siyah Ahtapot Dübel Buldex Vida
+TUĞRA HIRDAVAT
+Menşei : TR ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/31QPocxHmtL._SX342_SY445_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>298.00</listPrice>
+    <price>974.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GLHZ2HGZ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Würth Shark Pro 8X46 10 lu Süper Siyah Ahtapot Dübel Buldex Vida&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935127</id>
+    <productCode>TDE-DC935127</productCode>
+    <barcode>8684021457320</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Oto Paspas Bagaj Havuzu ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Oto Paspas Bagaj Havuzu ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Sahler ]]&gt;</brand>
+    <name>&lt;![CDATA[ Sahler Toyota C-HR 2 2023+ Uyumlu 4.5D Premium Havuzlu Oto Paspas ve Liner Marka 3D SES SİSTEMSİZ Bagaj Havuzu ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Sahler Toyota C-HR 2 2023+ Uyumlu 4.5D Premium Havuzlu Oto Paspas ve Liner Marka 3D SES SİSTEMSİZ Bagaj Havuzu
+SAHLER
+Menşei : TR ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51Fq1AqxQpL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>3199.00</listPrice>
+    <price>8077.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HLZN5KWJ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Sahler Toyota C-HR 2 2023+ Uyumlu 4.5D Premium Havuzlu Oto Paspas ve Liner Marka 3D SES SİSTEMSİZ Bagaj Havuzu&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935128</id>
+    <productCode>TDE-DC935128</productCode>
+    <barcode>8687876436922</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Oto Bakım Temizlik Ürünleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Oto Bakım Temizlik Ürünleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Mayaglory ]]&gt;</brand>
+    <name>&lt;![CDATA[ Mayaglory Alüminyum Gövdeli Teleskopik Araç Yıkama Mopu Uzayabilir Saplı Mikrofiber Mop, Yedek Bezli, Çıkarılabilir Başlık, Araba Fırçası ,Oto Fırça , Çizmez Kırılmaz (Araba Yıkama Fırcası (OtoMop)) ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+ESNEKLİK Bu paslanmaz çelik metal tasarım sadece 47,5 inç uzunluğunda uzamakla kalmaz, aynı zamanda 180 derecelik kolay bir temizleme açısı sunar. teleskopik fırçanın temizlik sırasında sıkıca tutulmasını sağlamak için kaymaz kavrama. Araba fırçası, her şeyi yapmak için esnemek, eğilmek veya bükülmek zorunda kalmaz
+UZATILABİLİR : Teleskopik sapı sayesinde yüksek araç tavanları ve zor alanlara kolay erişim.
+ARABA FIRÇA : Araba, SUV, minibüs, motosiklet temizliğinde üstün performans harika sonuçlar.
+HERYERDE KULLANIM : Ev, ofis ve balkon camlarında çizmeden temizlik sağlar. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/710HyDPby-L._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>289.00</listPrice>
+    <price>947.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GQH9FB62</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Mayaglory Alüminyum Gövdeli Teleskopik Araç Yıkama Mopu Uzayabilir Saplı Mikrofiber Mop, Yedek Bezli, Çıkarılabilir Başlık, Araba Fırçası ,Oto Fırça , Çizmez Kırılmaz (Araba Yıkama Fırcası (OtoMop))&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935129</id>
+    <productCode>TDE-DC935129</productCode>
+    <barcode>8682054748439</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Oto Bakım Temizlik Ürünleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Oto Bakım Temizlik Ürünleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Torpido ]]&gt;</brand>
+    <name>&lt;![CDATA[ Torpido Temizleme Koruyucu Mendil 36 Adet ]]&gt;</name>
+    <description>&lt;![CDATA[ marka: Autokit
+cilt tipi: Tüm Ciltler
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61Uw2IkEX4L._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>119.00</listPrice>
+    <price>437.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B09BGK4XGQ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Torpido Temizleme Koruyucu Mendil 36 Adet&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935130</id>
+    <productCode>TDE-DC935130</productCode>
+    <barcode>8683632620116</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Darbeli Somun Sıkma ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Darbeli Somun Sıkma ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Dewalt ]]&gt;</brand>
+    <name>&lt;![CDATA[ Dewalt 18V Somun Sıkma (Bataryasız) T-Stak Çanta ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Mod 2 Yüksek Hız: İleri takım normal hızda çalışır, geri takım normal hızda çalışır
+Mod 3 Yumuşak Bağlantı: İleri araç, bağlantı elemanlarının yumuşak malzemelere daha hızlı olması için optimize edilmiştir, geri araç, yumuşak malzemelerdeki bağlantı elemanlarının en hızlı gevşeme süresi için optimize edilmiştir
+Mod 4 Hassas Anahtar: İleri alet, aşırı sıkmayı önlemeye yardımcı olmak için çarpmadan önce duraklar, geri alet, bağlantı elemanı gevşek olduğunda hızı düşürür ve akmaya yardımcı olur
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51TCbUDljIL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>5899.00</listPrice>
+    <price>14694.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0B4JV82F1</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Dewalt 18V Somun Sıkma (Bataryasız) T-Stak Çanta&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935131</id>
+    <productCode>TDE-DC935131</productCode>
+    <barcode>8688807912652</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kompresör ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kompresör ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Araç ]]&gt;</brand>
+    <name>&lt;![CDATA[ Araç Oto Pompası Şarjlı Taşınabilir Araç Hava Kompresörü - Dijital/Mekanik Göstergeli Kablosuz Araba Lastik Şişirme Pompası, Type-C Şarjlı Oto Hava Pompası, Bisiklet, Motosiklet Şişirme Kiti ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+✅2-3 Dakikada Hızlı ve Güçlü Şişirme: Gelişmiş motor teknolojisi ve dayanıklı alüminyum alaşımlı piston mili sayesinde araç lastiklerinizi yalnızca 2-3 dakika içinde kolayca şişirebilir, yolculuklarınıza zaman kaybetmeden güvenle devam edebilirsiniz.
+✅Tek Cihazla Çok Amaçlı Kullanım Sunar.
+✅Hassas Mekanik Basınç Göstergesi: Cihaz üzerinde yer alan yüksek kaliteli ve net okunabilir mekanik gösterge paneli (PSI, BAR, $kg/cm^2$) sayesinde lastiğinizin anlık basınç değerini her an kolayca takip edebilirsiniz.
+✅Kablosuz Özgürlük ve Type-C Şarj Teknolojisi: Dahili yüksek kapasiteli lityum bataryası sayesinde kablo karmaşasına son verir. Yeni nesil Type-C şarj portu aracılığıyla arabanızda, evinizde veya bir powerbank yardımıyla kolayca şarj edilebilir.
+✅Dayanıklı Malzeme ve Uzun Ömürlü Kullanım: Yüksek kaliteli ABS dış gövde ve sızdırmazlık halkalı iç mekanizması sayesinde aşınmalara karşı dirençlidir. Her türlü hava koşulunda pratik ve güvenilir bir performans sunacak şekilde tasarlanmıştır.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61z0+PEPc-L._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>724.00</listPrice>
+    <price>2107.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0H2GNR92W</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Araç Oto Pompası Şarjlı Taşınabilir Araç Hava Kompresörü - Dijital/Mekanik Göstergeli Kablosuz Araba Lastik Şişirme Pompası, Type-C Şarjlı Oto Hava Pompası, Bisiklet, Motosiklet Şişirme Kiti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935132</id>
+    <productCode>TDE-DC935132</productCode>
+    <barcode>8689050797898</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kompresör ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kompresör ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Orret ]]&gt;</brand>
+    <name>&lt;![CDATA[ Orret Home 12V Mini Hava Kompresörü – Araç Çakmaklık Tipi 300 PSI Lastik Şişirme Pompası, Araba/Bisiklet/Motosiklet Lastiği ve Top Şişirme İçin Taşınabilir Mini Kompresör ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+🔌 12V Çakmaklık Girişli: Aracın çakmaklık soketine takılarak çalışır, ek güç gerektirmez.
+🛞 300 PSI Şişirme Gücü: Araç, bisiklet, motosiklet ve scooter lastikleri için ideal performans.
+🏀 Top ve Şişme Ürünler İçin Uyumlu: Futbol, basketbol, voleybol topu ve şişme oyuncaklar için de kullanılabilir.
+🧰 Kompakt &amp; Taşınabilir Tasarım: Araç yol yardım çantasında yer kaplamaz.
+📏 Uzun Güç Kablosu: Aracın etrafını dolaşacak uzunlukta kablo ile kolay kullanım.
+⏱️ Hızlı Şişirme: Acil durumlarda hızlı ve güvenilir hava doldurma performansı.
+🤝 Evrensel Uyum: Çoğu lastik sibop tipi ve şişme ürün adaptörleriyle uyum sağlar.
+Daha fazla göster ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61FzfYSJT2L._AC_SX522_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>713.00</listPrice>
+    <price>2076.40</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0G2H9RBCN</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Orret Home 12V Mini Hava Kompresörü – Araç Çakmaklık Tipi 300 PSI Lastik Şişirme Pompası, Araba/Bisiklet/Motosiklet Lastiği ve Top Şişirme İçin Taşınabilir Mini Kompresör&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935133</id>
+    <productCode>TDE-DC935133</productCode>
+    <barcode>8685454890685</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kompresör ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kompresör ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Lunatic ]]&gt;</brand>
+    <name>&lt;![CDATA[ Lunatic PM-600w Kompresör Kapı Aralara Araç Koltuk Araları Bilgisayar Kasa içi Temizleme Çok Amaçlı Kullanımlı Hava Üfleme Kompresörü (PM-600W) ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Çok Amaçlı Kullanımlı Hava Üfleme Kompresörü
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51OKX0ETzfL._AC_SX522_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>799.00</listPrice>
+    <price>2317.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GBXM96KW</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Lunatic PM-600w Kompresör Kapı Aralara Araç Koltuk Araları Bilgisayar Kasa içi Temizleme Çok Amaçlı Kullanımlı Hava Üfleme Kompresörü (PM-600W)&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935134</id>
+    <productCode>TDE-DC935134</productCode>
+    <barcode>8685514822489</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kompresör ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kompresör ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Einhell ]]&gt;</brand>
+    <name>&lt;![CDATA[ Einhell Akülü Hava Kompresörü PRESSITO 18/21 4020467 ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Power X-Change - PRESSITO 18/21 akülü kompresör, akülerin, şarj cihazlarının ve sistem cihazlarının birleştirilebildiği Einhell Power X-Change ailesinin bir parçasıdır.
+Yüksek basınç pompası - Kompresör 10,5 bar'a kadar yüksek basınçlı pompalama için uygundur. Bu, araba lastiklerini, tekerlek lastiklerini ve topları şişirmeyi kolaylaştırır.
+Düşük basınç - Kompresör ayrıca dolum için düşük basınç pompası veya havalı yatakların havasını almak için düşük basınçlı elektrikli süpürge olarak da kullanılabilir.
+Güçlü - 2 kg hafifliğinde, taşıma saplı kompakt kompresör, 21 l/dk'ya kadar emiş kapasitesi ve maks. 14L/dk boşaltım kapasitesine sahiptir.
+Basınç ayarı: İstenilen basınç önceden ayarlanır veya basma anahtarı ile manuel olarak pompalanır. Basınç LCD ekranda bar, PSI veya kPa olarak okunabilir.
+Aksesuarlar dahildir - Einhell PRESSITO 18/21 kompresör yüksek ve alçak basınç hortumu ve 3 parçalı adaptör seti ile birlikte gelir.
+Akü dahil değildir - PRESSITO 18/21 akülü kompresör Power X-Change akü ve şarj cihazı olmadan teslim edilir. Bunlar ayrı olarak satılmaktadır.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71wn4H+3C+L._AC_SX522_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>3049.00</listPrice>
+    <price>7702.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B09NNX6NMV</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Einhell Akülü Hava Kompresörü PRESSITO 18/21 4020467&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935135</id>
+    <productCode>TDE-DC935135</productCode>
+    <barcode>8682676758458</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Küçük Ev Aletleri ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Küçük Ev Aletleri ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ WMF ]]&gt;</brand>
+    <name>&lt;![CDATA[ WMF Kitchenminis Doğrayıcı, Mat Cromargan® Yüksek Kaliteli Paslanmaz Çelik, Yer Tasarrufu Sağlayan Mini Doğrayıcı, Tek Elle Kullanım, Çıkarılabilir 300 ml Hazne, 65 W ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+0.4 litre kabı BPA katkısız Tritan’dan üretilmiştir.
+WMF Perfect Cut teknolojisine sahip iki paslanmaz çelik bıçağı ve güvenli kapanma mekanizması bulunur.
+Çikolata veya peynirleri küçük parçalara bölmek için de kullanılabilir.
+Çıkarılabilir parçaların hepsi bulaşık makinesinde yıkanabilir.
+Koleksiyon: Kitchen Mini ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71-N0f7kUSL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>4469.00</listPrice>
+    <price>9875.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B075X11R6Z</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;WMF Kitchenminis Doğrayıcı, Mat Cromargan® Yüksek Kaliteli Paslanmaz Çelik, Yer Tasarrufu Sağlayan Mini Doğrayıcı, Tek Elle Kullanım, Çıkarılabilir 300 ml Hazne, 65 W&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935136</id>
+    <productCode>TDE-DC935136</productCode>
+    <barcode>8682053617866</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Mutfak Gereçleri Ekipmanları ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Mutfak Gereçleri Ekipmanları ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Silikon ]]&gt;</brand>
+    <name>&lt;![CDATA[ Silikon Mutfak Pişirme Gereçleri Seti, 5 Parça Yapışmaz Mutfak Gereçleri Seti Ahşap Saplı Spatula Seti Isıya Dayanıklı Silikon Tencere Mutfak Gereçleri (Beyaz) ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+✔️ 5 Parça Mutfak Gereçleri Seti Spatula, çırpıcı, kepçe, servis kaşığı ve delikli servis kaşığından oluşur.
+🍳 Çok Amaçlı Kullanım Yemek pişirme, karıştırma, servis ve hazırlık işlemleri için uygundur.
+🧩 Yüzey Dostu Tasarım Tencere ve tavaların yüzeyine zarar vermeden güvenle kullanılabilir.
+✋ Ergonomik Sap Yapısı Rahat kavrama sağlar, uzun süreli kullanımlarda el yorgunluğunu azaltır.
+🧼 Kolay Temizlenebilir Günlük kullanım sonrası pratik şekilde temizlenir, hijyeniktir.
+🪝 Askı Delikli Saplar Mutfakta düzenli saklama ve kolay erişim imkânı sunar.
+🏠 Ev ve Günlük Kullanım İçin İdeal Ev mutfakları, öğrenci evleri ve yoğun kullanım için uygundur. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51pVCDflhYL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>950.00</listPrice>
+    <price>2740.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GL46TW58</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Silikon Mutfak Pişirme Gereçleri Seti, 5 Parça Yapışmaz Mutfak Gereçleri Seti Ahşap Saplı Spatula Seti Isıya Dayanıklı Silikon Tencere Mutfak Gereçleri (Beyaz)&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935137</id>
+    <productCode>TDE-DC935137</productCode>
+    <barcode>8684080297257</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Mutfak Gereçleri Ekipmanları ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Mutfak Gereçleri Ekipmanları ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Orret ]]&gt;</brand>
+    <name>&lt;![CDATA[ Orret Home Çelik Hamur Kesici, Ahşap Saplı Metal Hamur Sıyrıcı, Makarna Sıyırma Aparatı, Hamur Dilimleyici, Makarna ve Makarnacılık İçin Çelik Şekillendirici ve Porsiyonlayıcı, Mutfakta Çok Amaçlı Kul ]]&gt;</name>
+    <description>&lt;![CDATA[ Çelik Bıçak : Paslanmaz ve dayanıklı, keskin kesim için idealdir.
+Ahşap Sap : Kullanım kolaylığı ve konfor sunan ergonomik tasarım.
+Çok Amaçlı Kullanım : Hamur kırma, sıyırmak, şekillendirmek ve yarışmak için uygundur.
+Makarna ve Makarnacılık Araçları : Profesyonel sonuçlar için tasarlanmıştır.
+Kolay Temizlenir : Metal bıçak, nemli bir bezle kolayca temizlenebilir.
+Uzun Ömürlü Kullanım : Yüksek kalitede üretilmiştir.
+Kompakt ve Hafif : Mutfakta minimum yer kaplar, kolayca saklanır.
+Daha fazla göster ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/61bmDGyRD-L._AC_SX300_SY300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>167.00</listPrice>
+    <price>581.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0DVLRFNZZ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Orret Home Çelik Hamur Kesici, Ahşap Saplı Metal Hamur Sıyrıcı, Makarna Sıyırma Aparatı, Hamur Dilimleyici, Makarna ve Makarnacılık İçin Çelik Şekillendirici ve Porsiyonlayıcı, Mutfakta Çok Amaçlı Kul&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935138</id>
+    <productCode>TDE-DC935138</productCode>
+    <barcode>8687808290967</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Budama Makası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Budama Makası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Black&amp;Decker ]]&gt;</brand>
+    <name>&lt;![CDATA[ Black&amp;Decker BXGTTO7021 Bypass Budama Makası 28 İnç ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+marka: Black+Decker
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51uYQ0eXIGL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1750.00</listPrice>
+    <price>3540.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0C4F3CN3D</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Black&amp;Decker BXGTTO7021 Bypass Budama Makası 28 İnç&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935139</id>
+    <productCode>TDE-DC935139</productCode>
+    <barcode>8684766223358</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Budama Makası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Budama Makası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Çelik ]]&gt;</brand>
+    <name>&lt;![CDATA[ Çelik Elma Makası, Meyve Toplama ve Budama İçin, Metal Bahçe Aleti ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+DAYANIKLI TASARIM: Yüksek kaliteli çelikten üretilmiş, uzun ömürlü ve paslanmaya dayanıklı profesyonel bahçe makası
+KULLANIM ALANI: Meyve toplama ve ağaç budama işlemleri için ideal, çok amaçlı bahçe el aleti
+ERGONOMİK KAVRAMA: Rahat kullanım için özel tasarlanmış tutma sapları ile yorulmadan uzun süre çalışabilme imkanı
+KESKİN BIÇAKLAR: Hassas ve temiz kesim sağlayan, özel bilenen çelik bıçaklar ile etkili budama performansı
+PRATİK KULLANIM: Tek elle kolay kullanım için optimize edilmiş boyut ve ağırlık dengesi
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/11NPHNoH81L._AC_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>300.00</listPrice>
+    <price>980.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0G3HY6Z8P</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Çelik Elma Makası, Meyve Toplama ve Budama İçin, Metal Bahçe Aleti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935140</id>
+    <productCode>TDE-DC935140</productCode>
+    <barcode>8687457272444</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Budama Makası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Budama Makası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Transformacion ]]&gt;</brand>
+    <name>&lt;![CDATA[ Transformacion Profesyonel 2’li Mini Budama Seti: Hassas Çiçek ve Bitki Makası - Çelik Ultra Keskin Seri 722647 ]]&gt;</name>
+    <description>&lt;![CDATA[ Ürün, asorti nitelikte olup elinize ulaşan ürünün rengi, katalogta belirtilen renkten farklılık gösterebilir.
+Paket İçeriği: 2 farklı modelden oluşan profesyonel budama makası seti (12 cm ve 11 cm), özel muhafaza ile birlikte gönderilir. Ürün, asorti nitelikte olup elinize ulaşan ürünün rengi, katalogta belirtilen renkten farklılık gösterebilir.
+Neden Bu Seti Tercih Etmelisiniz? Çünkü vasat olan her zaman en pahalı olandır; her yıl bozulan bir makası yenilemek hem bütçenize hem de ruh halinize yüktür. Bu set, sizi "sürekli yeni makas arama" derdinden kurtararak zamansız bir çözüm sunar. Bitkileriniz, ezilmeden, tek bir hamlede yapılan temiz kesimlerle daha hızlı iyileşir ve coşkuyla büyür. Bu setle sadece bir araç satın almıyorsunuz; bitkilerinizin sağlığına yatırım yapıyor ve yaşam alanınızdaki zarafeti taçlandırıyorsunuz. Ürün, asorti nitelikte olup elinize ulaşan ürünün rengi, katalogta belirtilen renkten farklılık gösterebilir.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71SfgzN6U6L._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>213.00</listPrice>
+    <price>719.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GNMB7H6P</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Transformacion Profesyonel 2’li Mini Budama Seti: Hassas Çiçek ve Bitki Makası - Çelik Ultra Keskin Seri 722647&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935141</id>
+    <productCode>TDE-DC935141</productCode>
+    <barcode>8680095566739</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Budama Makası ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Budama Makası ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Fiskars ]]&gt;</brand>
+    <name>&lt;![CDATA[ Fiskars Anvil Bahçe Makası L, Masif, P361, Kuru dallar ve budak için, Yapışmaz kaplama, Paslanmaz çelik bıçaklar, Uzunluk: 20,1 cm, Siyah/Turuncu, 1057165 ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Kuru odun ve Ø2 cm'ye kadar sert dallar için örs budama makası, Taze ve yeşil odun kesmek için uygun değildir, Sağ ve sol elini kullananlar için uygundur
+Üretim: Kesme bıçağının yapışmaz kaplaması sayesinde pürüzsüz ve temiz kesimler, Sertleştirilmiş çelikten yapılmış sağlam bıçaklar
+PVC içermeyen, fiberglas takviyeli plastikten yapılmış sağlam, ergonomik SoftGrip kulplar, Güvenli taşıma ve saklama için kilitleme mekanizması
+Yüksek dayanıklılık, Kesme bıçağının kolayca yeniden bilenmesi, Bakım setinde ayrı olarak satılan elmas törpü (Ürün no.: 1001640), Fin tasarımı
+İçerik: 1x Fiskars Solid Anvil Bahçe Makası L P361, Uzunluk: 20,1 cm, Ağırlık: 173 g, Malzeme: Çelik/Yapışmaz kaplama, Renk: Siyah/Turuncu, 1057165
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/41o0ASdTrkL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1424.00</listPrice>
+    <price>3640.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B08NK6HXJC</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Fiskars Anvil Bahçe Makası L, Masif, P361, Kuru dallar ve budak için, Yapışmaz kaplama, Paslanmaz çelik bıçaklar, Uzunluk: 20,1 cm, Siyah/Turuncu, 1057165&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935142</id>
+    <productCode>TDE-DC935142</productCode>
+    <barcode>8685444226906</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kahve Makineleri Aksesuar ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kahve Makineleri Aksesuar ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Philips ]]&gt;</brand>
+    <name>&lt;![CDATA[ Philips CA6700/10 Espresso Makinesi Kireç Temizleme Solüsyonu, CA6704/10 Yağ Çözücü Tablet 2'li Set ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Kireç Çözücü Solüsyon: Espresso makinenizin su devrelerini etkili bir şekilde temizler ve kireç oluşumuna karşı korur
+Yağ Çözücü Tablet: 6 kullanım için kahve yağı kalıntılarını temizler ve makinenin verimli çalışmasını sağlar
+2'li Avantaj Seti: CA6700/10 kireç çözücü (250ml) ve CA6704/10 yağ çözücü tablet kombinasyonu
+Makine Ömrünü Uzatır: Düzenli bakım ile Philips ve Saeco espresso makinelerinizin kullanım ömrünü uzatır
+Kahve Kalitesini Korur: Kireç çözme işlemi sayesinde kahvenin lezzeti, sıcaklığı ve aroması uzun süre korunur ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/612NOz2kS8L._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>909.00</listPrice>
+    <price>2625.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GZM3CSMN</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Philips CA6700/10 Espresso Makinesi Kireç Temizleme Solüsyonu, CA6704/10 Yağ Çözücü Tablet 2'li Set&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935143</id>
+    <productCode>TDE-DC935143</productCode>
+    <barcode>8689561420018</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kahve Makineleri Aksesuar ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kahve Makineleri Aksesuar ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Siemens ]]&gt;</brand>
+    <name>&lt;![CDATA[ Siemens Siemens tam otomatik makineler için TZ80001 temizleme tabletleri ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Optimum temizlik sayesinde mükemmel aroma. Kahve yağı kalıntıları ideal şekilde giderilir.
+2'si 1 arada: En iyi aroma + uzun kullanım ömrü için
+Siemens tam otomatik kahve makinelerinin otomatik temizleme programı için optimize edilmiştir
+Tüm Siemens EQ tam otomatik kahve makineleri için uygundur. Seri (EQ.8, EQ.7, EQ.6, EQ.5), surpresso serisi ve ankastre tam otomatik makineler
+Teslimat kapsamı: 10 temizleme tableti ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51+lQgvlKKL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>698.00</listPrice>
+    <price>1715.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B00TXA28NK</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Siemens Siemens tam otomatik makineler için TZ80001 temizleme tabletleri&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935144</id>
+    <productCode>TDE-DC935144</productCode>
+    <barcode>8689193709123</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kahve Makineleri Aksesuar ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kahve Makineleri Aksesuar ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Finum ]]&gt;</brand>
+    <name>&lt;![CDATA[ Finum BLOOM AND FLOW (4 adet) - Cam sürahili kahve makinesi, BPA içermez ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+marka: Kafiltro ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/515nSEoJoxL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1940.00</listPrice>
+    <price>4930.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0GYYGQ8LQ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Finum BLOOM AND FLOW (4 adet) - Cam sürahili kahve makinesi, BPA içermez&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935145</id>
+    <productCode>TDE-DC935145</productCode>
+    <barcode>8682627270107</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ PPRC ]]&gt;</brand>
+    <name>&lt;![CDATA[ PPRC 1500 W KAYNAK MAKİNESİ,Tesisat işleri,Sulama sistemleri,İnşaat uygulamaları,Endüstriyel bakım ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+GÜÇ: 1500 W yüksek güçlü PPRC kaynak makinesi, hızlı ve güvenilir boru birleştirme işlemi sağlar.
+GENİŞ KULLANIM ALANI: Tesisat işleri, sulama sistemleri, inşaat uygulamaları ve endüstriyel bakım projelerinde kullanıma uygundur.
+TAŞINABILIR ÇANTA: Sağlam ve dayanıklı çanta sayesinde tüm aksesuarlar düzenli şekilde saklanır ve kolayca taşınır.
+KAPSAMLI SET: Farklı çaplarda kaynak başlıkları ile birlikte gelir, çeşitli boru boyutlarında kullanım imkânı sunar.
+PROFESYONEL PERFORMANS: Hem saha hem de atölye koşullarında yüksek performanslı boru kaynak işlemi gerçekleştirmenizi sağlar.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71fe-j1dYmL._AC_SX300_SY300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>1840.00</listPrice>
+    <price>4680.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0H7WXFMPS</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;PPRC 1500 W KAYNAK MAKİNESİ,Tesisat işleri,Sulama sistemleri,İnşaat uygulamaları,Endüstriyel bakım&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935146</id>
+    <productCode>TDE-DC935146</productCode>
+    <barcode>8681565913848</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ CAT ]]&gt;</brand>
+    <name>&lt;![CDATA[ CAT DZ201 200 Amper TIG LIFT/MMA Çanta Tipi Profesyonel Dijital İnverter Kaynak Makinesi ]]&gt;</name>
+    <description>&lt;![CDATA[ CAT MMA/Ark Dijital Kaynak Makinesi yüksek frekans ve mükemmel çalışma verimliliği ile profesyonel işlerinizde 1,6mm-5,0mm aralığında Kaynak Elektrotlarını mükemmel bir şekilde eriterek metal yüzeyler, çelik, paslanmaz çelik, dökme demir ve selüloz malzemeler üzerinde etkili ve mükemmel kaynak yapmanızı sağlar
+CAT TIG LIFT/MMA Dijital İnverter Kaynak Makinesi MMA/Ark kaynağı ve TIG LIFT/Argon Kaynağı yapma teknolojisi sayesinde iki farklı kullanım özelliği ile geniş kullanım alanı sağlar
+Karbon çeliği, alaşımlı çelikler, her türlü demir ve çelik metalleri sorunsuz ve pürüzsüz kaynak yapmanızı sağlar
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/510ItiRk-NL._AC_SX522_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>11098.00</listPrice>
+    <price>16687.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0BDG38L96</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;CAT DZ201 200 Amper TIG LIFT/MMA Çanta Tipi Profesyonel Dijital İnverter Kaynak Makinesi&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935147</id>
+    <productCode>TDE-DC935147</productCode>
+    <barcode>8687284354986</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Steiner ]]&gt;</brand>
+    <name>&lt;![CDATA[ Steiner Alman MMA-200 Amper Profesyonel Dijital Göstergeli İnverter Kaynak Makinesi Mavi ]]&gt;</name>
+    <description>&lt;![CDATA[ Steiner Alman MMA-200 Amper Profesyonel Dijital Göstergeli İnverter Kaynak Makinesi Mavi
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/71KftAoqOXL._AC_SY741_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>4999.00</listPrice>
+    <price>12577.50</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0DV477XYZ</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Steiner Alman MMA-200 Amper Profesyonel Dijital Göstergeli İnverter Kaynak Makinesi Mavi&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935148</id>
+    <productCode>TDE-DC935148</productCode>
+    <barcode>8684806262774</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ SGS ]]&gt;</brand>
+    <name>&lt;![CDATA[ SGS Plus 160A Hi-Tech Inverter Kaynak Makinesi, Fanli Soğutmalı, Çanta Tipi ]]&gt;</name>
+    <description>&lt;![CDATA[ 160 AMPER KAPASİTE: Profesyonel kaynak işleri için yüksek performanslı 160 amperlik inverter kaynak makinesi
+FANLI SOĞUTMA SİSTEMİ: Gelişmiş soğutma teknolojisi ile uzun süreli kullanımda güvenli ve verimli çalışma
+TAŞINABILIR TASARIM: Çanta tipi yapısı sayesinde kolay taşınabilir ve farklı çalışma alanlarında kullanılabilir
+INVERTER TEKNOLOJİSİ: Kararlı ark ve düşük enerji tüketimi ile kaliteli kaynak dikişleri
+SGS ORİJİNAL KALİTE: Güvenilir marka tarafından üretilen profesyonel standart kaynak makinesi
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/81NPru48zgL._AC_SY879_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>8170.00</listPrice>
+    <price>16420.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0HKW28S22</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;SGS Plus 160A Hi-Tech Inverter Kaynak Makinesi, Fanli Soğutmalı, Çanta Tipi&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935149</id>
+    <productCode>TDE-DC935149</productCode>
+    <barcode>8683429347035</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Kaynak Makinesi ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Magmaweld ]]&gt;</brand>
+    <name>&lt;![CDATA[ Magmaweld ESR 13 2.50x350 mm Rutil Kaynak Elektrodu, 100 Adet ]]&gt;</name>
+    <description>&lt;![CDATA[ Hafif çelik imalatlar, demir doğrama, ferforje, tarım makineleri, kazan, muhtelif araç şasi karoseri imalatları ve bunların tamir-bakım kaynakları için uygundur.
+Yukarıdan aşağı hariç her türlü pozisyonda kullanılır.
+Özellikle yatayda köşe kaynakları için çok uygundur.
+Çok düzgün dikiş görüntüsüne, çok kolay ark tutuşma ve yeniden tutuşma özelliklerine, sakin ve kararlı bir arka sahip olup, ince damlalı metal geçişine sahiptir.
+Hem AC'de hem de DC'de aynı rahatlıkta kullanılabilir ve cürufu kendiliğinden kalkar.
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51pzMH82dVL._AC_SX300_SY300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>485.00</listPrice>
+    <price>1204.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0D8TNCTGY</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Magmaweld ESR 13 2.50x350 mm Rutil Kaynak Elektrodu, 100 Adet&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935150</id>
+    <productCode>TDE-DC935150</productCode>
+    <barcode>8680786103120</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Hobi Ahşap Boyama ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Hobi Ahşap Boyama ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Hannah ]]&gt;</brand>
+    <name>&lt;![CDATA[ Hannah 24 Parça Akrilik Yağlıboya Suluboya Guaj Boya Fırça Seti Sentetik Fırça Ahşap Sap Kullanışlı Çanta ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Suluboya, yağlı boya, guaj, akrilik boyama, vücut, tırnak, yüz boyama, duvar boyama, el sanatları boyama vb. alanlarda yaygın olarak kullanılır. Kazıyıcı spatulası metaldir.
+Konfor ve kontrol için tasarlanan ahşap saplı fırça hafiftir ve kavraması kolaydır.
+Fırçayı korumak ve düşmesini önlemek için kanvas çanta ile birlikte gelir ve taşıması çok rahattır.
+Parça Sayısı: 24 Adet. Malzeme: Sentetik, ahşap, alüminyum. Çanta: Kanvas.
+Resim çantası ölçüleri (U x G): Yaklaşık 26 x 11,5 cm
+Fırçalar sentetik kıllardan oluşur, yumuşak ve esnektir, deforme olması ve kıl dökülmesi kolay değildir, boyaları emmesi kolaydır. Bu mükemmel fırça seti sanatsal ifadenizi daha iyi hale getirir. ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/81Zi-KMivpL._AC_SX300_SY300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>904.00</listPrice>
+    <price>2611.20</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0DDDTQTDX</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Hannah 24 Parça Akrilik Yağlıboya Suluboya Guaj Boya Fırça Seti Sentetik Fırça Ahşap Sap Kullanışlı Çanta&lt;/p&gt; ]]&gt;</detail>
+  </product>
+  <product>
+    <id>935151</id>
+    <productCode>TDE-DC935151</productCode>
+    <barcode>8689440937699</barcode>
+    <modelCode/>
+    <main_category>&lt;![CDATA[ Hobi Ahşap Boyama ]]&gt;</main_category>
+    <top_category/>
+    <sub_category/>
+    <categoryID>9396</categoryID>
+    <category>&lt;![CDATA[ Hobi Ahşap Boyama ]]&gt;</category>
+    <active>1</active>
+    <brandID>12723</brandID>
+    <brand>&lt;![CDATA[ Ham ]]&gt;</brand>
+    <name>&lt;![CDATA[ Ham Ahşap Üçlü Balık Figürü Seti ]]&gt;</name>
+    <description>&lt;![CDATA[ Bu ürün hakkında
+Üçlü Balık Figürü: Ham ahşaptan yapılmış, doğal ve şık tasarıma sahip 3 adet balık figürü seti
+Dekoratif Kullanım: Ev, ofis veya çalışma alanlarında dekorasyon ve estetik amaçlı kullanıma uygun
+Ham Ahşap Malzeme: Doğal ahşaptan üretilmiş, boyama ve kişiselleştirme için hazır ürün
+Asılabilir Tasarım: Her balık figürünün üst kısmında delik bulunarak kolayca asılabilir
+Hobi Evim Markası: Kaliteli oyuncak ve figür ürünleriyle tanınan Hobi Evim tarafından üretilmiştir
+› Daha fazla ürün bilgisi ]]&gt;</description>
+    <image1>https://m.media-amazon.com/images/I/51+mcXUPFTL._AC_SY300_SX300_QL70_ML2_.jpg</image1>
+    <image2/>
+    <image3/>
+    <image4/>
+    <listPrice>245.00</listPrice>
+    <price>815.00</price>
+    <tax>0.2</tax>
+    <currency>TRY</currency>
+    <desi>1</desi>
+    <quantity>10</quantity>
+    <domestic>0</domestic>
+    <show_home>1</show_home>
+    <in_discount>1</in_discount>
+    <unit>Adet</unit>
+    <link>https://www.amazon.com.tr/dp/B0H98XXZQS</link>
+    <detail>&lt;![CDATA[ &lt;p&gt;Ham Ahşap Üçlü Balık Figürü Seti&lt;/p&gt; ]]&gt;</detail>
+  </product>
+</products>
